@@ -1,7 +1,7 @@
 # I CHING
 
-1. [Qian](./hexagramas/1.qian/qian.md)
-2. [Kun](./hexagramas/2.kun/kun.md)
+1. [Qian](./hexagramas/01.qian/qian.md)
+2. [Kun](./hexagramas/02.kun/kun.md)
 3. 
 4. 
 5. 
