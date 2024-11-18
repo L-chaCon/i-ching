@@ -1,5 +1,7 @@
 # Qian
 
+![qian](../../../assets/hexagrams/white/01.png)
+
 # Principio Activo
 
 ## Qian simboliza el Cielo
