@@ -3,10 +3,10 @@ from pathlib import Path
 
 from PIL import Image
 
-out = Path("{}/assets/hexagrams/white".format(Path.cwd().parent))
+out = Path("{}/assets/hexagrams/main/white".format(Path.cwd().parent))
 out.mkdir(parents=True, exist_ok=True)
 
-in_path = Path("{}/assets/hexagrams".format(Path.cwd().parent))
+in_path = Path("{}/assets/hexagrams/main/black".format(Path.cwd().parent))
 
 
 def change_black_to_white(in_path, out_path):
@@ -17,7 +17,7 @@ def change_black_to_white(in_path, out_path):
 
     for pixel in data:
         if pixel[3] > 0:
-            new_data.append((225, 225, 225, pixel[3]))
+            new_data.append((255, 255, 255, pixel[3]))
         else:
             new_data.append(pixel)
 
