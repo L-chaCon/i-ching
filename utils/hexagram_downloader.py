@@ -5,6 +5,7 @@ from time import sleep
 
 import requests
 from bs4 import BeautifulSoup, element
+from bs4.formatter import HTMLFormatter
 from dotenv import load_dotenv
 
 load_dotenv(f"{Path.cwd().parent}/.env")
@@ -81,12 +82,13 @@ def image_download_from_wiki(out: Path, verbose: bool = False):
     print_report(failed_hexagrams, success_hexagrams)
 
 
-def create_hexagram(
+def download_raw_html(
     hexagram_a_element: element.Tag,
     session: requests.Session,
     download_image: bool = False,
-    out_path: Path | str = "",
     image_out: Path | str = "",
+    raw_html_out: Path | str = "",
+    download_raw: bool = False,
 ) -> None:
     base_url = "https://www.iching-online.com"
     text = hexagram_a_element.find("h5").get_text(separator=" ")
@@ -107,16 +109,28 @@ def create_hexagram(
             else:
                 raise ValueError("No response por request")
         # Hexagram data
-        # TODO: Agarrar la data de el hexagram
+        main_div = soup.find_all("div", {"class": "txt"})[0]
 
+        for p in main_div.find_all("p"):
+            p.unwrap()
+        table = main_div.table
+        table.decompose()
+        if download_raw:
+            formatter = HTMLFormatter(indent=4)
+            with open(
+                f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html",
+                "wb",
+            ) as f:
+                f.write(main_div.prettify(formatter=formatter).encode("utf-8"))
         return
     raise Exception("No request found for Hexagram")
 
 
 def download_hexagram(
-    out_path: Path | str = "",
     image: bool = False,
     image_out: Path | str = "",
+    raw_html_out: Path | str = "",
+    download_raw: bool = False,
 ) -> None:
     base_url = "https://www.iching-online.com/hexagrams"
 
@@ -144,12 +158,16 @@ def download_hexagram(
                     text = hexagram.find("h5").get_text(separator=" ")
                     h_number = int(text.split(" ")[0])
                     try:
-                        create_hexagram(
+                        download_raw_html(
                             hexagram_a_element=hexagram,
                             session=session,
                             download_image=image,
-                            out_path=out_path,
                             image_out=image_out,
+                            raw_html_out=raw_html_out,
+                            download_raw=download_raw,
+                        )
+                        success_hexagrams[str(h_number).zfill(2)] = (
+                            f"Download Succes -> {str(h_number).zfill(2)}"
                         )
                     except Exception as e:
                         failed_hexagrams[str(h_number).zfill(2)] = (
@@ -167,6 +185,7 @@ def main(
     update_hexagram: bool = False,
     image_wiki: bool = False,
     image_from_hexagram: bool = False,
+    download_raw: bool = False,
 ):
     image_out_mini = Path(f"{Path.cwd().parent}/assets/hexagrams/mini")
     image_out_mini.mkdir(parents=True, exist_ok=True)
@@ -174,16 +193,24 @@ def main(
     image_out_main = Path(f"{Path.cwd().parent}/assets/hexagrams/main")
     image_out_main.mkdir(parents=True, exist_ok=True)
 
-    hexagram_out = Path(f"{Path.cwd().parent}/src/hexagrams")
-    hexagram_out.mkdir(parents=True, exist_ok=True)
+    hexagram_raw_out = Path(f"{Path.cwd().parent}/assets/hexagrams/raw_html")
+    hexagram_raw_out.mkdir(parents=True, exist_ok=True)
 
     if image_wiki:
         image_download_from_wiki(out=image_out_mini)
     if update_hexagram:
         download_hexagram(
-            out_path=hexagram_out, image=image_from_hexagram, image_out=image_out_main
+            image=image_from_hexagram,
+            image_out=image_out_main,
+            raw_html_out=hexagram_raw_out,
+            download_raw=download_raw,
         )
 
 
 if __name__ == "__main__":
-    main(update_hexagram=True, image_wiki=False, image_from_hexagram=False)
+    main(
+        update_hexagram=True,
+        image_wiki=False,
+        image_from_hexagram=False,
+        download_raw=False,
+    )
