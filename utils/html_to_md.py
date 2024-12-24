@@ -10,7 +10,7 @@ def html_to_md(file_name: str = "", html_file=""):
     soup = BeautifulSoup(html_file, "html.parser")
 
     for h2 in soup.find_all("h2"):
-        print(h2.get_text())
+        print(h2.string.split("ss"))
 
 
 def main():

@@ -121,12 +121,13 @@ def download_raw_html(
             raw_path = Path(f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html")
             if raw_path.exists():
                 return "Already existing file"
-            formatter = HTMLFormatter(indent=4)
+            # formatter = HTMLFormatter(indent=4)
             with open(
                 f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html",
                 "wb",
             ) as f:
-                f.write(main_div.prettify(formatter=formatter).encode("utf-8"))
+                # f.write(main_div.prettify(formatter=formatter).encode("utf-8"))
+                f.write(main_div.prettify().encode("utf-8"))
             return "Download Success"
         return "All options are deactivated, try setting to True"
     raise Exception("No request found for Hexagram")
