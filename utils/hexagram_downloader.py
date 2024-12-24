@@ -89,7 +89,7 @@ def download_raw_html(
     image_out: Path | str = "",
     raw_html_out: Path | str = "",
     download_raw: bool = False,
-) -> None:
+) -> str:
     base_url = "https://www.iching-online.com"
     text = hexagram_a_element.find("h5").get_text(separator=" ")
     h_number, h_name = int(text.split(" ")[0]), text.split(" ")[1]
@@ -103,6 +103,9 @@ def download_raw_html(
             image_url = f"{img.get('src').replace("..",base_url)}"
             img_r = session.get(image_url)
             image_out_path = f"{image_out}/{str(h_number).zfill(2)}_{h_name}.png"
+            image_out_path_class = Path(image_out_path)
+            if image_out_path_class.exists():
+                return "Already existing file"
             if img_r.status_code == 200:
                 with open(image_out_path, "wb") as f:
                     f.write(img_r.content)
@@ -110,19 +113,22 @@ def download_raw_html(
                 raise ValueError("No response por request")
         # Hexagram data
         main_div = soup.find_all("div", {"class": "txt"})[0]
-
         for p in main_div.find_all("p"):
             p.unwrap()
         table = main_div.table
         table.decompose()
         if download_raw:
+            raw_path = Path(f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html")
+            if raw_path.exists():
+                return "Already existing file"
             formatter = HTMLFormatter(indent=4)
             with open(
                 f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html",
                 "wb",
             ) as f:
                 f.write(main_div.prettify(formatter=formatter).encode("utf-8"))
-        return
+            return "Download Success"
+        return "All options are deactivated, try setting to True"
     raise Exception("No request found for Hexagram")
 
 
@@ -158,7 +164,7 @@ def download_hexagram(
                     text = hexagram.find("h5").get_text(separator=" ")
                     h_number = int(text.split(" ")[0])
                     try:
-                        download_raw_html(
+                        success_message = download_raw_html(
                             hexagram_a_element=hexagram,
                             session=session,
                             download_image=image,
@@ -167,7 +173,7 @@ def download_hexagram(
                             download_raw=download_raw,
                         )
                         success_hexagrams[str(h_number).zfill(2)] = (
-                            f"Download Succes -> {str(h_number).zfill(2)}"
+                            f"{success_message} -> {str(h_number).zfill(2)}"
                         )
                     except Exception as e:
                         failed_hexagrams[str(h_number).zfill(2)] = (
@@ -212,5 +218,5 @@ if __name__ == "__main__":
         update_hexagram=True,
         image_wiki=False,
         image_from_hexagram=False,
-        download_raw=False,
+        download_raw=True,
     )
