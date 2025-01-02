@@ -1,0 +1,540 @@
+INFO:__main__:Starting
+INFO:__main__:Starting
+INFO:__main__:public has been delated
+INFO:__main__:public has been created
+INFO:__main__:public/hexagrams has been created
+INFO:__main__:public/hexagrams/mini has been created
+INFO:__main__:public/hexagrams/mini/63.png has been created
+INFO:__main__:public/hexagrams/mini/62.png has been created
+INFO:__main__:public/hexagrams/mini/60.png has been created
+INFO:__main__:public/hexagrams/mini/48.png has been created
+INFO:__main__:public/hexagrams/mini/49.png has been created
+INFO:__main__:public/hexagrams/mini/61.png has been created
+INFO:__main__:public/hexagrams/mini/59.png has been created
+INFO:__main__:public/hexagrams/mini/64.png has been created
+INFO:__main__:public/hexagrams/mini/58.png has been created
+INFO:__main__:public/hexagrams/mini/14.png has been created
+INFO:__main__:public/hexagrams/mini/28.png has been created
+INFO:__main__:public/hexagrams/mini/29.png has been created
+INFO:__main__:public/hexagrams/mini/01.png has been created
+INFO:__main__:public/hexagrams/mini/15.png has been created
+INFO:__main__:public/hexagrams/mini/03.png has been created
+INFO:__main__:public/hexagrams/mini/17.png has been created
+INFO:__main__:public/hexagrams/mini/16.png has been created
+INFO:__main__:public/hexagrams/mini/02.png has been created
+INFO:__main__:public/hexagrams/mini/06.png has been created
+INFO:__main__:public/hexagrams/mini/12.png has been created
+INFO:__main__:public/hexagrams/mini/13.png has been created
+INFO:__main__:public/hexagrams/mini/07.png has been created
+INFO:__main__:public/hexagrams/mini/39.png has been created
+INFO:__main__:public/hexagrams/mini/11.png has been created
+INFO:__main__:public/hexagrams/mini/05.png has been created
+INFO:__main__:public/hexagrams/mini/04.png has been created
+INFO:__main__:public/hexagrams/mini/10.png has been created
+INFO:__main__:public/hexagrams/mini/38.png has been created
+INFO:__main__:public/hexagrams/mini/35.png has been created
+INFO:__main__:public/hexagrams/mini/21.png has been created
+INFO:__main__:public/hexagrams/mini/09.png has been created
+INFO:__main__:public/hexagrams/mini/08.png has been created
+INFO:__main__:public/hexagrams/mini/20.png has been created
+INFO:__main__:public/hexagrams/mini/34.png has been created
+INFO:__main__:public/hexagrams/mini/22.png has been created
+INFO:__main__:public/hexagrams/mini/36.png has been created
+INFO:__main__:public/hexagrams/mini/37.png has been created
+INFO:__main__:public/hexagrams/mini/23.png has been created
+INFO:__main__:public/hexagrams/mini/27.png has been created
+INFO:__main__:public/hexagrams/mini/33.png has been created
+INFO:__main__:public/hexagrams/mini/32.png has been created
+INFO:__main__:public/hexagrams/mini/26.png has been created
+INFO:__main__:public/hexagrams/mini/18.png has been created
+INFO:__main__:public/hexagrams/mini/30.png has been created
+INFO:__main__:public/hexagrams/mini/24.png has been created
+INFO:__main__:public/hexagrams/mini/25.png has been created
+INFO:__main__:public/hexagrams/mini/31.png has been created
+INFO:__main__:public/hexagrams/mini/19.png has been created
+INFO:__main__:public/hexagrams/mini/56.png has been created
+INFO:__main__:public/hexagrams/mini/42.png has been created
+INFO:__main__:public/hexagrams/mini/43.png has been created
+INFO:__main__:public/hexagrams/mini/57.png has been created
+INFO:__main__:public/hexagrams/mini/41.png has been created
+INFO:__main__:public/hexagrams/mini/55.png has been created
+INFO:__main__:public/hexagrams/mini/54.png has been created
+INFO:__main__:public/hexagrams/mini/40.png has been created
+INFO:__main__:public/hexagrams/mini/white has been created
+INFO:__main__:public/hexagrams/mini/white/63.png has been created
+INFO:__main__:public/hexagrams/mini/white/62.png has been created
+INFO:__main__:public/hexagrams/mini/white/60.png has been created
+INFO:__main__:public/hexagrams/mini/white/48.png has been created
+INFO:__main__:public/hexagrams/mini/white/49.png has been created
+INFO:__main__:public/hexagrams/mini/white/61.png has been created
+INFO:__main__:public/hexagrams/mini/white/59.png has been created
+INFO:__main__:public/hexagrams/mini/white/64.png has been created
+INFO:__main__:public/hexagrams/mini/white/58.png has been created
+INFO:__main__:public/hexagrams/mini/white/14.png has been created
+INFO:__main__:public/hexagrams/mini/white/28.png has been created
+INFO:__main__:public/hexagrams/mini/white/29.png has been created
+INFO:__main__:public/hexagrams/mini/white/01.png has been created
+INFO:__main__:public/hexagrams/mini/white/15.png has been created
+INFO:__main__:public/hexagrams/mini/white/03.png has been created
+INFO:__main__:public/hexagrams/mini/white/17.png has been created
+INFO:__main__:public/hexagrams/mini/white/16.png has been created
+INFO:__main__:public/hexagrams/mini/white/02.png has been created
+INFO:__main__:public/hexagrams/mini/white/06.png has been created
+INFO:__main__:public/hexagrams/mini/white/12.png has been created
+INFO:__main__:public/hexagrams/mini/white/13.png has been created
+INFO:__main__:public/hexagrams/mini/white/07.png has been created
+INFO:__main__:public/hexagrams/mini/white/39.png has been created
+INFO:__main__:public/hexagrams/mini/white/11.png has been created
+INFO:__main__:public/hexagrams/mini/white/05.png has been created
+INFO:__main__:public/hexagrams/mini/white/04.png has been created
+INFO:__main__:public/hexagrams/mini/white/10.png has been created
+INFO:__main__:public/hexagrams/mini/white/38.png has been created
+INFO:__main__:public/hexagrams/mini/white/35.png has been created
+INFO:__main__:public/hexagrams/mini/white/21.png has been created
+INFO:__main__:public/hexagrams/mini/white/09.png has been created
+INFO:__main__:public/hexagrams/mini/white/08.png has been created
+INFO:__main__:public/hexagrams/mini/white/20.png has been created
+INFO:__main__:public/hexagrams/mini/white/34.png has been created
+INFO:__main__:public/hexagrams/mini/white/22.png has been created
+INFO:__main__:public/hexagrams/mini/white/36.png has been created
+INFO:__main__:public/hexagrams/mini/white/37.png has been created
+INFO:__main__:public/hexagrams/mini/white/23.png has been created
+INFO:__main__:public/hexagrams/mini/white/27.png has been created
+INFO:__main__:public/hexagrams/mini/white/33.png has been created
+INFO:__main__:public/hexagrams/mini/white/32.png has been created
+INFO:__main__:public/hexagrams/mini/white/26.png has been created
+INFO:__main__:public/hexagrams/mini/white/18.png has been created
+INFO:__main__:public/hexagrams/mini/white/30.png has been created
+INFO:__main__:public/hexagrams/mini/white/24.png has been created
+INFO:__main__:public/hexagrams/mini/white/25.png has been created
+INFO:__main__:public/hexagrams/mini/white/31.png has been created
+INFO:__main__:public/hexagrams/mini/white/19.png has been created
+INFO:__main__:public/hexagrams/mini/white/56.png has been created
+INFO:__main__:public/hexagrams/mini/white/42.png has been created
+INFO:__main__:public/hexagrams/mini/white/43.png has been created
+INFO:__main__:public/hexagrams/mini/white/57.png has been created
+INFO:__main__:public/hexagrams/mini/white/41.png has been created
+INFO:__main__:public/hexagrams/mini/white/55.png has been created
+INFO:__main__:public/hexagrams/mini/white/54.png has been created
+INFO:__main__:public/hexagrams/mini/white/40.png has been created
+INFO:__main__:public/hexagrams/mini/white/44.png has been created
+INFO:__main__:public/hexagrams/mini/white/50.png has been created
+INFO:__main__:public/hexagrams/mini/white/51.png has been created
+INFO:__main__:public/hexagrams/mini/white/45.png has been created
+INFO:__main__:public/hexagrams/mini/white/53.png has been created
+INFO:__main__:public/hexagrams/mini/white/47.png has been created
+INFO:__main__:public/hexagrams/mini/white/46.png has been created
+INFO:__main__:public/hexagrams/mini/white/52.png has been created
+INFO:__main__:public/hexagrams/mini/44.png has been created
+INFO:__main__:public/hexagrams/mini/50.png has been created
+INFO:__main__:public/hexagrams/mini/51.png has been created
+INFO:__main__:public/hexagrams/mini/45.png has been created
+INFO:__main__:public/hexagrams/mini/53.png has been created
+INFO:__main__:public/hexagrams/mini/47.png has been created
+INFO:__main__:public/hexagrams/mini/46.png has been created
+INFO:__main__:public/hexagrams/mini/52.png has been created
+INFO:__main__:public/hexagrams/raw_html has been created
+INFO:__main__:public/hexagrams/raw_html/18_Decay.html has been created
+INFO:__main__:public/hexagrams/raw_html/10_Treading.html has been created
+INFO:__main__:public/hexagrams/raw_html/17_Following.html has been created
+INFO:__main__:public/hexagrams/raw_html/01_Creative.html has been created
+INFO:__main__:public/hexagrams/raw_html/56_Wanderer.html has been created
+INFO:__main__:public/hexagrams/raw_html/13_Fellowship.html has been created
+INFO:__main__:public/hexagrams/raw_html/33_Retreat.html has been created
+INFO:__main__:public/hexagrams/raw_html/30_Clinging.html has been created
+INFO:__main__:public/hexagrams/raw_html/32_Duration.html has been created
+INFO:__main__:public/hexagrams/raw_html/26_Taming.html has been created
+INFO:__main__:public/hexagrams/raw_html/06_Conflict.html has been created
+INFO:__main__:public/hexagrams/raw_html/12_Standstill.html has been created
+INFO:__main__:public/hexagrams/raw_html/02_Receptive.html has been created
+INFO:__main__:public/hexagrams/raw_html/57_Gentle.html has been created
+INFO:__main__:public/hexagrams/raw_html/39_Obstruction.html has been created
+INFO:__main__:public/hexagrams/raw_html/07_Army.html has been created
+INFO:__main__:public/hexagrams/raw_html/16_Enthusiasm.html has been created
+INFO:__main__:public/hexagrams/raw_html/25_Innocence.html has been created
+INFO:__main__:public/hexagrams/raw_html/11_Peace.html has been created
+INFO:__main__:public/hexagrams/raw_html/35_Progress.html has been created
+INFO:__main__:public/hexagrams/raw_html/08_Union.html has been created
+INFO:__main__:public/hexagrams/raw_html/52_Still.html has been created
+INFO:__main__:public/hexagrams/raw_html/22_Grace.html has been created
+INFO:__main__:public/hexagrams/raw_html/05_Waiting.html has been created
+INFO:__main__:public/hexagrams/raw_html/34_Power.html has been created
+INFO:__main__:public/hexagrams/raw_html/58_Joyous.html has been created
+INFO:__main__:public/hexagrams/raw_html/63_After.html has been created
+INFO:__main__:public/hexagrams/raw_html/15_Modesty.html has been created
+INFO:__main__:public/hexagrams/raw_html/50_Caldron.html has been created
+INFO:__main__:public/hexagrams/raw_html/46_Pushing.html has been created
+INFO:__main__:public/hexagrams/raw_html/36_Darkening.html has been created
+INFO:__main__:public/hexagrams/raw_html/59_Dispersion.html has been created
+INFO:__main__:public/hexagrams/raw_html/21_Biting.html has been created
+INFO:__main__:public/hexagrams/raw_html/38_Opposition.html has been created
+INFO:__main__:public/hexagrams/raw_html/55_Abundance.html has been created
+INFO:__main__:public/hexagrams/raw_html/24_Return.html has been created
+INFO:__main__:public/hexagrams/raw_html/28_Preponderance.html has been created
+INFO:__main__:public/hexagrams/raw_html/31_Influence.html has been created
+INFO:__main__:public/hexagrams/raw_html/19_Approach.html has been created
+INFO:__main__:public/hexagrams/raw_html/49_Revolution.html has been created
+INFO:__main__:public/hexagrams/raw_html/41_Decrease.html has been created
+INFO:__main__:public/hexagrams/raw_html/37_Family.html has been created
+INFO:__main__:public/hexagrams/raw_html/03_Difficulty.html has been created
+INFO:__main__:public/hexagrams/raw_html/27_Mouth.html has been created
+INFO:__main__:public/hexagrams/raw_html/40_Deliverance.html has been created
+INFO:__main__:public/hexagrams/raw_html/48_Well.html has been created
+INFO:__main__:public/hexagrams/raw_html/64_Before.html has been created
+INFO:__main__:public/hexagrams/raw_html/09_Taming.html has been created
+INFO:__main__:public/hexagrams/raw_html/43_Resoluteness.html has been created
+INFO:__main__:public/hexagrams/raw_html/61_Truth.html has been created
+INFO:__main__:public/hexagrams/raw_html/62_Small.html has been created
+INFO:__main__:public/hexagrams/raw_html/44_Coming.html has been created
+INFO:__main__:public/hexagrams/raw_html/14_Possession.html has been created
+INFO:__main__:public/hexagrams/raw_html/23_Splitting.html has been created
+INFO:__main__:public/hexagrams/raw_html/47_Oppression.html has been created
+INFO:__main__:public/hexagrams/raw_html/20_View.html has been created
+INFO:__main__:public/hexagrams/raw_html/45_Gathering.html has been created
+INFO:__main__:public/hexagrams/raw_html/51_Arousing.html has been created
+INFO:__main__:public/hexagrams/raw_html/42_Increase.html has been created
+INFO:__main__:public/hexagrams/raw_html/54_Marrying.html has been created
+INFO:__main__:public/hexagrams/raw_html/60_Limitation.html has been created
+INFO:__main__:public/hexagrams/raw_html/53_Development.html has been created
+INFO:__main__:public/hexagrams/raw_html/29_Abysmal.html has been created
+INFO:__main__:public/hexagrams/raw_html/04_Folly.html has been created
+INFO:__main__:public/hexagrams/main has been created
+INFO:__main__:public/hexagrams/main/08_Union.png has been created
+INFO:__main__:public/hexagrams/main/35_Progress.png has been created
+INFO:__main__:public/hexagrams/main/06_Conflict.png has been created
+INFO:__main__:public/hexagrams/main/13_Fellowship.png has been created
+INFO:__main__:public/hexagrams/main/63_After.png has been created
+INFO:__main__:public/hexagrams/main/24_Return.png has been created
+INFO:__main__:public/hexagrams/main/27_Mouth.png has been created
+INFO:__main__:public/hexagrams/main/42_Increase.png has been created
+INFO:__main__:public/hexagrams/main/02_Receptive.png has been created
+INFO:__main__:public/hexagrams/main/59_Dispersion.png has been created
+INFO:__main__:public/hexagrams/main/47_Oppression.png has been created
+INFO:__main__:public/hexagrams/main/12_Standstill.png has been created
+INFO:__main__:public/hexagrams/main/45_Gathering.png has been created
+INFO:__main__:public/hexagrams/main/55_Abundance.png has been created
+INFO:__main__:public/hexagrams/main/54_Marrying.png has been created
+INFO:__main__:public/hexagrams/main/14_Possession.png has been created
+INFO:__main__:public/hexagrams/main/31_Influence.png has been created
+INFO:__main__:public/hexagrams/main/11_Peace.png has been created
+INFO:__main__:public/hexagrams/main/37_Family.png has been created
+INFO:__main__:public/hexagrams/main/51_Arousing.png has been created
+INFO:__main__:public/hexagrams/main/58_Joyous.png has been created
+INFO:__main__:public/hexagrams/main/38_Opposition.png has been created
+INFO:__main__:public/hexagrams/main/34_Power.png has been created
+INFO:__main__:public/hexagrams/main/21_Biting.png has been created
+INFO:__main__:public/hexagrams/main/53_Development.png has been created
+INFO:__main__:public/hexagrams/main/52_Still.png has been created
+INFO:__main__:public/hexagrams/main/25_Innocence.png has been created
+INFO:__main__:public/hexagrams/main/40_Deliverance.png has been created
+INFO:__main__:public/hexagrams/main/05_Waiting.png has been created
+INFO:__main__:public/hexagrams/main/10_Treading.png has been created
+INFO:__main__:public/hexagrams/main/30_Clinging.png has been created
+INFO:__main__:public/hexagrams/main/49_Revolution.png has been created
+INFO:__main__:public/hexagrams/main/48_Well.png has been created
+INFO:__main__:public/hexagrams/main/39_Obstruction.png has been created
+INFO:__main__:public/hexagrams/main/01_Creative.png has been created
+INFO:__main__:public/hexagrams/main/15_Modesty.png has been created
+INFO:__main__:public/hexagrams/main/44_Coming.png has been created
+INFO:__main__:public/hexagrams/main/46_Pushing.png has been created
+INFO:__main__:public/hexagrams/main/43_Resoluteness.png has been created
+INFO:__main__:public/hexagrams/main/26_Taming.png has been created
+INFO:__main__:public/hexagrams/main/62_Small.png has been created
+INFO:__main__:public/hexagrams/main/17_Following.png has been created
+INFO:__main__:public/hexagrams/main/28_Preponderance.png has been created
+INFO:__main__:public/hexagrams/main/18_Decay.png has been created
+INFO:__main__:public/hexagrams/main/33_Retreat.png has been created
+INFO:__main__:public/hexagrams/main/64_Before.png has been created
+INFO:__main__:public/hexagrams/main/36_Darkening.png has been created
+INFO:__main__:public/hexagrams/main/61_Truth.png has been created
+INFO:__main__:public/hexagrams/main/56_Wanderer.png has been created
+INFO:__main__:public/hexagrams/main/50_Caldron.png has been created
+INFO:__main__:public/hexagrams/main/16_Enthusiasm.png has been created
+INFO:__main__:public/hexagrams/main/03_Difficulty.png has been created
+INFO:__main__:public/hexagrams/main/22_Grace.png has been created
+INFO:__main__:public/hexagrams/main/29_Abysmal.png has been created
+INFO:__main__:public/hexagrams/main/60_Limitation.png has been created
+INFO:__main__:public/hexagrams/main/07_Army.png has been created
+INFO:__main__:public/hexagrams/main/white has been created
+INFO:__main__:public/hexagrams/main/white/08_Union.png has been created
+INFO:__main__:public/hexagrams/main/white/35_Progress.png has been created
+INFO:__main__:public/hexagrams/main/white/06_Conflict.png has been created
+INFO:__main__:public/hexagrams/main/white/13_Fellowship.png has been created
+INFO:__main__:public/hexagrams/main/white/63_After.png has been created
+INFO:__main__:public/hexagrams/main/white/24_Return.png has been created
+INFO:__main__:public/hexagrams/main/white/27_Mouth.png has been created
+INFO:__main__:public/hexagrams/main/white/42_Increase.png has been created
+INFO:__main__:public/hexagrams/main/white/02_Receptive.png has been created
+INFO:__main__:public/hexagrams/main/white/59_Dispersion.png has been created
+INFO:__main__:public/hexagrams/main/white/47_Oppression.png has been created
+INFO:__main__:public/hexagrams/main/white/12_Standstill.png has been created
+INFO:__main__:public/hexagrams/main/white/45_Gathering.png has been created
+INFO:__main__:public/hexagrams/main/white/55_Abundance.png has been created
+INFO:__main__:public/hexagrams/main/white/54_Marrying.png has been created
+INFO:__main__:public/hexagrams/main/white/14_Possession.png has been created
+INFO:__main__:public/hexagrams/main/white/31_Influence.png has been created
+INFO:__main__:public/hexagrams/main/white/11_Peace.png has been created
+INFO:__main__:public/hexagrams/main/white/37_Family.png has been created
+INFO:__main__:public/hexagrams/main/white/51_Arousing.png has been created
+INFO:__main__:public/hexagrams/main/white/58_Joyous.png has been created
+INFO:__main__:public/hexagrams/main/white/38_Opposition.png has been created
+INFO:__main__:public/hexagrams/main/white/34_Power.png has been created
+INFO:__main__:public/hexagrams/main/white/21_Biting.png has been created
+INFO:__main__:public/hexagrams/main/white/53_Development.png has been created
+INFO:__main__:public/hexagrams/main/white/52_Still.png has been created
+INFO:__main__:public/hexagrams/main/white/25_Innocence.png has been created
+INFO:__main__:public/hexagrams/main/white/40_Deliverance.png has been created
+INFO:__main__:public/hexagrams/main/white/05_Waiting.png has been created
+INFO:__main__:public/hexagrams/main/white/10_Treading.png has been created
+INFO:__main__:public/hexagrams/main/white/30_Clinging.png has been created
+INFO:__main__:public/hexagrams/main/white/49_Revolution.png has been created
+INFO:__main__:public/hexagrams/main/white/48_Well.png has been created
+INFO:__main__:public/hexagrams/main/white/39_Obstruction.png has been created
+INFO:__main__:public/hexagrams/main/white/01_Creative.png has been created
+INFO:__main__:public/hexagrams/main/white/15_Modesty.png has been created
+INFO:__main__:public/hexagrams/main/white/44_Coming.png has been created
+INFO:__main__:public/hexagrams/main/white/46_Pushing.png has been created
+INFO:__main__:public/hexagrams/main/white/43_Resoluteness.png has been created
+INFO:__main__:public/hexagrams/main/white/26_Taming.png has been created
+INFO:__main__:public/hexagrams/main/white/62_Small.png has been created
+INFO:__main__:public/hexagrams/main/white/17_Following.png has been created
+INFO:__main__:public/hexagrams/main/white/28_Preponderance.png has been created
+INFO:__main__:public/hexagrams/main/white/18_Decay.png has been created
+INFO:__main__:public/hexagrams/main/white/33_Retreat.png has been created
+INFO:__main__:public/hexagrams/main/white/64_Before.png has been created
+INFO:__main__:public/hexagrams/main/white/36_Darkening.png has been created
+INFO:__main__:public/hexagrams/main/white/61_Truth.png has been created
+INFO:__main__:public/hexagrams/main/white/56_Wanderer.png has been created
+INFO:__main__:public/hexagrams/main/white/50_Caldron.png has been created
+INFO:__main__:public/hexagrams/main/white/16_Enthusiasm.png has been created
+INFO:__main__:public/hexagrams/main/white/03_Difficulty.png has been created
+INFO:__main__:public/hexagrams/main/white/22_Grace.png has been created
+INFO:__main__:public/hexagrams/main/white/29_Abysmal.png has been created
+INFO:__main__:public/hexagrams/main/white/60_Limitation.png has been created
+INFO:__main__:public/hexagrams/main/white/07_Army.png has been created
+INFO:__main__:public/hexagrams/main/white/09_Taming.png has been created
+INFO:__main__:public/hexagrams/main/white/32_Duration.png has been created
+INFO:__main__:public/hexagrams/main/white/23_Splitting.png has been created
+INFO:__main__:public/hexagrams/main/white/41_Decrease.png has been created
+INFO:__main__:public/hexagrams/main/white/19_Approach.png has been created
+INFO:__main__:public/hexagrams/main/white/57_Gentle.png has been created
+INFO:__main__:public/hexagrams/main/white/04_Folly.png has been created
+INFO:__main__:public/hexagrams/main/white/20_View.png has been created
+INFO:__main__:public/hexagrams/main/black has been created
+INFO:__main__:public/hexagrams/main/black/08_Union.png has been created
+INFO:__main__:public/hexagrams/main/black/35_Progress.png has been created
+INFO:__main__:public/hexagrams/main/black/06_Conflict.png has been created
+INFO:__main__:public/hexagrams/main/black/13_Fellowship.png has been created
+INFO:__main__:public/hexagrams/main/black/63_After.png has been created
+INFO:__main__:public/hexagrams/main/black/24_Return.png has been created
+INFO:__main__:public/hexagrams/main/black/27_Mouth.png has been created
+INFO:__main__:public/hexagrams/main/black/42_Increase.png has been created
+INFO:__main__:public/hexagrams/main/black/02_Receptive.png has been created
+INFO:__main__:public/hexagrams/main/black/59_Dispersion.png has been created
+INFO:__main__:public/hexagrams/main/black/47_Oppression.png has been created
+INFO:__main__:public/hexagrams/main/black/12_Standstill.png has been created
+INFO:__main__:public/hexagrams/main/black/45_Gathering.png has been created
+INFO:__main__:public/hexagrams/main/black/55_Abundance.png has been created
+INFO:__main__:public/hexagrams/main/black/54_Marrying.png has been created
+INFO:__main__:public/hexagrams/main/black/14_Possession.png has been created
+INFO:__main__:public/hexagrams/main/black/31_Influence.png has been created
+INFO:__main__:public/hexagrams/main/black/11_Peace.png has been created
+INFO:__main__:public/hexagrams/main/black/37_Family.png has been created
+INFO:__main__:public/hexagrams/main/black/51_Arousing.png has been created
+INFO:__main__:public/hexagrams/main/black/58_Joyous.png has been created
+INFO:__main__:public/hexagrams/main/black/38_Opposition.png has been created
+INFO:__main__:public/hexagrams/main/black/34_Power.png has been created
+INFO:__main__:public/hexagrams/main/black/21_Biting.png has been created
+INFO:__main__:public/hexagrams/main/black/53_Development.png has been created
+INFO:__main__:public/hexagrams/main/black/52_Still.png has been created
+INFO:__main__:public/hexagrams/main/black/25_Innocence.png has been created
+INFO:__main__:public/hexagrams/main/black/40_Deliverance.png has been created
+INFO:__main__:public/hexagrams/main/black/05_Waiting.png has been created
+INFO:__main__:public/hexagrams/main/black/10_Treading.png has been created
+INFO:__main__:public/hexagrams/main/black/30_Clinging.png has been created
+INFO:__main__:public/hexagrams/main/black/49_Revolution.png has been created
+INFO:__main__:public/hexagrams/main/black/48_Well.png has been created
+INFO:__main__:public/hexagrams/main/black/39_Obstruction.png has been created
+INFO:__main__:public/hexagrams/main/black/01_Creative.png has been created
+INFO:__main__:public/hexagrams/main/black/15_Modesty.png has been created
+INFO:__main__:public/hexagrams/main/black/44_Coming.png has been created
+INFO:__main__:public/hexagrams/main/black/46_Pushing.png has been created
+INFO:__main__:public/hexagrams/main/black/43_Resoluteness.png has been created
+INFO:__main__:public/hexagrams/main/black/26_Taming.png has been created
+INFO:__main__:public/hexagrams/main/black/62_Small.png has been created
+INFO:__main__:public/hexagrams/main/black/17_Following.png has been created
+INFO:__main__:public/hexagrams/main/black/28_Preponderance.png has been created
+INFO:__main__:public/hexagrams/main/black/18_Decay.png has been created
+INFO:__main__:public/hexagrams/main/black/33_Retreat.png has been created
+INFO:__main__:public/hexagrams/main/black/64_Before.png has been created
+INFO:__main__:public/hexagrams/main/black/36_Darkening.png has been created
+INFO:__main__:public/hexagrams/main/black/61_Truth.png has been created
+INFO:__main__:public/hexagrams/main/black/56_Wanderer.png has been created
+INFO:__main__:public/hexagrams/main/black/50_Caldron.png has been created
+INFO:__main__:public/hexagrams/main/black/16_Enthusiasm.png has been created
+INFO:__main__:public/hexagrams/main/black/03_Difficulty.png has been created
+INFO:__main__:public/hexagrams/main/black/22_Grace.png has been created
+INFO:__main__:public/hexagrams/main/black/29_Abysmal.png has been created
+INFO:__main__:public/hexagrams/main/black/60_Limitation.png has been created
+INFO:__main__:public/hexagrams/main/black/07_Army.png has been created
+INFO:__main__:public/hexagrams/main/black/09_Taming.png has been created
+INFO:__main__:public/hexagrams/main/black/32_Duration.png has been created
+INFO:__main__:public/hexagrams/main/black/23_Splitting.png has been created
+INFO:__main__:public/hexagrams/main/black/41_Decrease.png has been created
+INFO:__main__:public/hexagrams/main/black/19_Approach.png has been created
+INFO:__main__:public/hexagrams/main/black/57_Gentle.png has been created
+INFO:__main__:public/hexagrams/main/black/04_Folly.png has been created
+INFO:__main__:public/hexagrams/main/black/20_View.png has been created
+INFO:__main__:public/hexagrams/main/09_Taming.png has been created
+INFO:__main__:public/hexagrams/main/32_Duration.png has been created
+INFO:__main__:public/hexagrams/main/23_Splitting.png has been created
+INFO:__main__:public/hexagrams/main/41_Decrease.png has been created
+INFO:__main__:public/hexagrams/main/19_Approach.png has been created
+INFO:__main__:public/hexagrams/main/57_Gentle.png has been created
+INFO:__main__:public/hexagrams/main/04_Folly.png has been created
+INFO:__main__:public/hexagrams/main/20_View.png has been created
+INFO:__main__:Generating page from content/index.md to public/index.html using template.html
+INFO:__main__:public/index.html Created
+INFO:__main__:Generating page from content/triagramas/qian_es.md to public/triagramas/qian_es.html using template.html
+INFO:__main__:public/triagramas/qian_es.html Created
+INFO:__main__:Generating page from content/triagramas/kun_es.md to public/triagramas/kun_es.html using template.html
+INFO:__main__:public/triagramas/kun_es.html Created
+INFO:__main__:Generating page from content/triagramas/zhen_es.md to public/triagramas/zhen_es.html using template.html
+INFO:__main__:public/triagramas/zhen_es.html Created
+INFO:__main__:Generating page from content/triagramas/li_es.md to public/triagramas/li_es.html using template.html
+INFO:__main__:public/triagramas/li_es.html Created
+INFO:__main__:Generating page from content/triagramas/gen_es.md to public/triagramas/gen_es.html using template.html
+INFO:__main__:public/triagramas/gen_es.html Created
+INFO:__main__:Generating page from content/triagramas/xun_es.md to public/triagramas/xun_es.html using template.html
+INFO:__main__:public/triagramas/xun_es.html Created
+INFO:__main__:Generating page from content/triagramas/dui_es.md to public/triagramas/dui_es.html using template.html
+INFO:__main__:public/triagramas/dui_es.html Created
+INFO:__main__:Generating page from content/hexagrams/17_Following.md to public/hexagrams/17_Following.html using template.html
+INFO:__main__:public/hexagrams/17_Following.html Created
+INFO:__main__:Generating page from content/hexagrams/46_Pushing.md to public/hexagrams/46_Pushing.html using template.html
+INFO:__main__:public/hexagrams/46_Pushing.html Created
+INFO:__main__:Generating page from content/hexagrams/54_Marrying.md to public/hexagrams/54_Marrying.html using template.html
+INFO:__main__:public/hexagrams/54_Marrying.html Created
+INFO:__main__:Generating page from content/hexagrams/12_Standstill.md to public/hexagrams/12_Standstill.html using template.html
+INFO:__main__:public/hexagrams/12_Standstill.html Created
+INFO:__main__:Generating page from content/hexagrams/13_Fellowship.md to public/hexagrams/13_Fellowship.html using template.html
+INFO:__main__:public/hexagrams/13_Fellowship.html Created
+INFO:__main__:Generating page from content/hexagrams/31_Influence.md to public/hexagrams/31_Influence.html using template.html
+INFO:__main__:public/hexagrams/31_Influence.html Created
+INFO:__main__:Generating page from content/hexagrams/04_Folly.md to public/hexagrams/04_Folly.html using template.html
+INFO:__main__:public/hexagrams/04_Folly.html Created
+INFO:__main__:Generating page from content/hexagrams/51_Arousing.md to public/hexagrams/51_Arousing.html using template.html
+INFO:__main__:public/hexagrams/51_Arousing.html Created
+INFO:__main__:Generating page from content/hexagrams/26_Taming.md to public/hexagrams/26_Taming.html using template.html
+INFO:__main__:public/hexagrams/26_Taming.html Created
+INFO:__main__:Generating page from content/hexagrams/44_Coming.md to public/hexagrams/44_Coming.html using template.html
+INFO:__main__:public/hexagrams/44_Coming.html Created
+INFO:__main__:Generating page from content/hexagrams/52_Still.md to public/hexagrams/52_Still.html using template.html
+INFO:__main__:public/hexagrams/52_Still.html Created
+INFO:__main__:Generating page from content/hexagrams/08_Union.md to public/hexagrams/08_Union.html using template.html
+INFO:__main__:public/hexagrams/08_Union.html Created
+INFO:__main__:Generating page from content/hexagrams/19_Approach.md to public/hexagrams/19_Approach.html using template.html
+INFO:__main__:public/hexagrams/19_Approach.html Created
+INFO:__main__:Generating page from content/hexagrams/53_Development.md to public/hexagrams/53_Development.html using template.html
+INFO:__main__:public/hexagrams/53_Development.html Created
+INFO:__main__:Generating page from content/hexagrams/49_Revolution.md to public/hexagrams/49_Revolution.html using template.html
+INFO:__main__:public/hexagrams/49_Revolution.html Created
+INFO:__main__:Generating page from content/hexagrams/32_Duration.md to public/hexagrams/32_Duration.html using template.html
+INFO:__main__:public/hexagrams/32_Duration.html Created
+INFO:__main__:Generating page from content/hexagrams/42_Increase.md to public/hexagrams/42_Increase.html using template.html
+INFO:__main__:public/hexagrams/42_Increase.html Created
+INFO:__main__:Generating page from content/hexagrams/15_Modesty.md to public/hexagrams/15_Modesty.html using template.html
+INFO:__main__:public/hexagrams/15_Modesty.html Created
+INFO:__main__:Generating page from content/hexagrams/06_Conflict.md to public/hexagrams/06_Conflict.html using template.html
+INFO:__main__:public/hexagrams/06_Conflict.html Created
+INFO:__main__:Generating page from content/hexagrams/62_Small.md to public/hexagrams/62_Small.html using template.html
+INFO:__main__:public/hexagrams/62_Small.html Created
+INFO:__main__:Generating page from content/hexagrams/03_Difficulty.md to public/hexagrams/03_Difficulty.html using template.html
+INFO:__main__:public/hexagrams/03_Difficulty.html Created
+INFO:__main__:Generating page from content/hexagrams/41_Decrease.md to public/hexagrams/41_Decrease.html using template.html
+INFO:__main__:public/hexagrams/41_Decrease.html Created
+INFO:__main__:Generating page from content/hexagrams/50_Caldron.md to public/hexagrams/50_Caldron.html using template.html
+INFO:__main__:public/hexagrams/50_Caldron.html Created
+INFO:__main__:Generating page from content/hexagrams/21_Biting.md to public/hexagrams/21_Biting.html using template.html
+INFO:__main__:public/hexagrams/21_Biting.html Created
+INFO:__main__:Generating page from content/hexagrams/35_Progress.md to public/hexagrams/35_Progress.html using template.html
+INFO:__main__:public/hexagrams/35_Progress.html Created
+INFO:__main__:Generating page from content/hexagrams/23_Splitting.md to public/hexagrams/23_Splitting.html using template.html
+INFO:__main__:public/hexagrams/23_Splitting.html Created
+INFO:__main__:Generating page from content/hexagrams/58_Joyous.md to public/hexagrams/58_Joyous.html using template.html
+INFO:__main__:public/hexagrams/58_Joyous.html Created
+INFO:__main__:Generating page from content/hexagrams/43_Resoluteness.md to public/hexagrams/43_Resoluteness.html using template.html
+INFO:__main__:public/hexagrams/43_Resoluteness.html Created
+INFO:__main__:Generating page from content/hexagrams/16_Enthusiasm.md to public/hexagrams/16_Enthusiasm.html using template.html
+INFO:__main__:public/hexagrams/16_Enthusiasm.html Created
+INFO:__main__:Generating page from content/hexagrams/02_Receptive.md to public/hexagrams/02_Receptive.html using template.html
+INFO:__main__:public/hexagrams/02_Receptive.html Created
+INFO:__main__:Generating page from content/hexagrams/60_Limitation.md to public/hexagrams/60_Limitation.html using template.html
+INFO:__main__:public/hexagrams/60_Limitation.html Created
+INFO:__main__:Generating page from content/hexagrams/01_Creative.md to public/hexagrams/01_Creative.html using template.html
+INFO:__main__:public/hexagrams/01_Creative.html Created
+INFO:__main__:Generating page from content/hexagrams/07_Army.md to public/hexagrams/07_Army.html using template.html
+INFO:__main__:public/hexagrams/07_Army.html Created
+INFO:__main__:Generating page from content/hexagrams/05_Waiting.md to public/hexagrams/05_Waiting.html using template.html
+INFO:__main__:public/hexagrams/05_Waiting.html Created
+INFO:__main__:Generating page from content/hexagrams/36_Darkening.md to public/hexagrams/36_Darkening.html using template.html
+INFO:__main__:public/hexagrams/36_Darkening.html Created
+INFO:__main__:Generating page from content/hexagrams/34_Power.md to public/hexagrams/34_Power.html using template.html
+INFO:__main__:public/hexagrams/34_Power.html Created
+INFO:__main__:Generating page from content/hexagrams/24_Return.md to public/hexagrams/24_Return.html using template.html
+INFO:__main__:public/hexagrams/24_Return.html Created
+INFO:__main__:Generating page from content/hexagrams/30_Clinging.md to public/hexagrams/30_Clinging.html using template.html
+INFO:__main__:public/hexagrams/30_Clinging.html Created
+INFO:__main__:Generating page from content/hexagrams/40_Deliverance.md to public/hexagrams/40_Deliverance.html using template.html
+INFO:__main__:public/hexagrams/40_Deliverance.html Created
+INFO:__main__:Generating page from content/hexagrams/28_Preponderance.md to public/hexagrams/28_Preponderance.html using template.html
+INFO:__main__:public/hexagrams/28_Preponderance.html Created
+INFO:__main__:Generating page from content/hexagrams/55_Abundance.md to public/hexagrams/55_Abundance.html using template.html
+INFO:__main__:public/hexagrams/55_Abundance.html Created
+INFO:__main__:Generating page from content/hexagrams/22_Grace.md to public/hexagrams/22_Grace.html using template.html
+INFO:__main__:public/hexagrams/22_Grace.html Created
+INFO:__main__:Generating page from content/hexagrams/33_Retreat.md to public/hexagrams/33_Retreat.html using template.html
+INFO:__main__:public/hexagrams/33_Retreat.html Created
+INFO:__main__:Generating page from content/hexagrams/63_After.md to public/hexagrams/63_After.html using template.html
+INFO:__main__:public/hexagrams/63_After.html Created
+INFO:__main__:Generating page from content/hexagrams/39_Obstruction.md to public/hexagrams/39_Obstruction.html using template.html
+INFO:__main__:public/hexagrams/39_Obstruction.html Created
+INFO:__main__:Generating page from content/hexagrams/11_Peace.md to public/hexagrams/11_Peace.html using template.html
+INFO:__main__:public/hexagrams/11_Peace.html Created
+INFO:__main__:Generating page from content/hexagrams/37_Family.md to public/hexagrams/37_Family.html using template.html
+INFO:__main__:public/hexagrams/37_Family.html Created
+INFO:__main__:Generating page from content/hexagrams/56_Wanderer.md to public/hexagrams/56_Wanderer.html using template.html
+INFO:__main__:public/hexagrams/56_Wanderer.html Created
+INFO:__main__:Generating page from content/hexagrams/27_Mouth.md to public/hexagrams/27_Mouth.html using template.html
+INFO:__main__:public/hexagrams/27_Mouth.html Created
+INFO:__main__:Generating page from content/hexagrams/59_Dispersion.md to public/hexagrams/59_Dispersion.html using template.html
+INFO:__main__:public/hexagrams/59_Dispersion.html Created
+INFO:__main__:Generating page from content/hexagrams/61_Truth.md to public/hexagrams/61_Truth.html using template.html
+INFO:__main__:public/hexagrams/61_Truth.html Created
+INFO:__main__:Generating page from content/hexagrams/48_Well.md to public/hexagrams/48_Well.html using template.html
+INFO:__main__:public/hexagrams/48_Well.html Created
+INFO:__main__:Generating page from content/hexagrams/09_Taming.md to public/hexagrams/09_Taming.html using template.html
+INFO:__main__:public/hexagrams/09_Taming.html Created
+INFO:__main__:Generating page from content/hexagrams/47_Oppression.md to public/hexagrams/47_Oppression.html using template.html
+INFO:__main__:public/hexagrams/47_Oppression.html Created
+INFO:__main__:Generating page from content/hexagrams/38_Opposition.md to public/hexagrams/38_Opposition.html using template.html
+INFO:__main__:public/hexagrams/38_Opposition.html Created
+INFO:__main__:Generating page from content/hexagrams/18_Decay.md to public/hexagrams/18_Decay.html using template.html
+INFO:__main__:public/hexagrams/18_Decay.html Created
+INFO:__main__:Generating page from content/hexagrams/10_Treading.md to public/hexagrams/10_Treading.html using template.html
+INFO:__main__:public/hexagrams/10_Treading.html Created
+INFO:__main__:Generating page from content/hexagrams/45_Gathering.md to public/hexagrams/45_Gathering.html using template.html
+INFO:__main__:public/hexagrams/45_Gathering.html Created
+INFO:__main__:Generating page from content/hexagrams/29_Abysmal.md to public/hexagrams/29_Abysmal.html using template.html
+INFO:__main__:public/hexagrams/29_Abysmal.html Created
+INFO:__main__:Generating page from content/hexagrams/57_Gentle.md to public/hexagrams/57_Gentle.html using template.html
+INFO:__main__:public/hexagrams/57_Gentle.html Created
+INFO:__main__:Generating page from content/hexagrams/20_View.md to public/hexagrams/20_View.html using template.html
+INFO:__main__:public/hexagrams/20_View.html Created
+INFO:__main__:Generating page from content/hexagrams/64_Before.md to public/hexagrams/64_Before.html using template.html
+INFO:__main__:public/hexagrams/64_Before.html Created
+INFO:__main__:Generating page from content/hexagrams/14_Possession.md to public/hexagrams/14_Possession.html using template.html
+INFO:__main__:public/hexagrams/14_Possession.html Created
+INFO:__main__:Generating page from content/hexagrams/25_Innocence.md to public/hexagrams/25_Innocence.html using template.html
+INFO:__main__:public/hexagrams/25_Innocence.html Created
+INFO:__main__:Finished
