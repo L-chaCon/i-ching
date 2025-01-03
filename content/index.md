@@ -2,7 +2,7 @@
 
 
 
-<form>here is the form format</form>
+
 
 ## Hexagramas
 

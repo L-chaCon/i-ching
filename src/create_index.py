@@ -19,6 +19,7 @@ def create_tri_table(triagrams: list) -> str:
 
 
 def create_form() -> str:
+    return ""
     return "<form>here is the form format</form>"
 
 
@@ -27,7 +28,6 @@ def create_intro() -> str:
     result.append("# I Ching")
     result.append("")
     result.append(create_form())
-    print(result)
     return "\n\n".join(result)
 
 
