@@ -9,3 +9,4 @@
 public/
 .log
 .raw_html/
+**/static/hexagrams/**
