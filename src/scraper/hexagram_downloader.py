@@ -195,13 +195,13 @@ def main(
     download_raw: bool = False,
 ):
     base_folder = Path(f"{Path.cwd().parent}").parent
-    image_out_mini = Path(f"{base_folder}/static/hexagrams/mini")
+    image_out_mini = Path(f"{base_folder}/static/images/mini")
     image_out_mini.mkdir(parents=True, exist_ok=True)
 
-    image_out_main = Path(f"{base_folder}/static/hexagrams/main")
+    image_out_main = Path(f"{base_folder}/static/images/main")
     image_out_main.mkdir(parents=True, exist_ok=True)
 
-    hexagram_raw_out = Path(f"{base_folder}/static/hexagrams/raw_html")
+    hexagram_raw_out = Path(f"{base_folder}/.raw_html")
     hexagram_raw_out.mkdir(parents=True, exist_ok=True)
 
     if image_wiki:

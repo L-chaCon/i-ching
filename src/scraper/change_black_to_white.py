@@ -4,9 +4,9 @@ from pathlib import Path
 from PIL import Image
 
 base_folder = Path(f"{Path.cwd().parent}").parent
-out = Path(f"{base_folder}/assets/hexagrams/main/white")
+out = Path(f"{base_folder}/static/images/hexagrams/main/white")
 out.mkdir(parents=True, exist_ok=True)
-in_path = Path(f"{base_folder}/assets/hexagrams/main/black")
+in_path = Path(f"{base_folder}/static/images/hexagrams/main/black")
 
 
 def change_black_to_white(in_path, out_path):
