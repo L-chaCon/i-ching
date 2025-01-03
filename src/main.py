@@ -1,21 +1,33 @@
 import logging
 import os
 import shutil
+from pathlib import Path
 
+from create_index import create_index
 from markdown import extract_title, markdown_to_html_node
 
 SOURCE_PATH = os.getenv("SOURCE_PATH", "static")
 CONTENT_PATH = os.getenv("CONTENT_PATH", "content")
+VERBOSE = os.getenv("VERBOSE", "0")
+if VERBOSE == "0":
+    verbose = False
+elif VERBOSE == "1":
+    verbose = True
+else:
+    raise ValueError("verbose is not a good value")
 
 logger = logging.getLogger(__name__)
 
 
-def main():
+def main(verbose=True):
     logging.basicConfig(filename=".log", level=logging.INFO)
     logger.info("Starting")
     clean_files_in_public()
-    copy_content_from_source()
-    generate_pages_recursive(CONTENT_PATH, "template.html", "public")
+    content_path = Path(f"{Path.cwd()}/{CONTENT_PATH}")
+    index_path = Path(f"{content_path}/index.md")
+    create_index(index_path, content_path)
+    copy_content_from_source(verbose=verbose)
+    generate_pages_recursive(CONTENT_PATH, "template.html", "public", verbose=verbose)
     logger.info("Finished")
 
 
@@ -105,7 +117,7 @@ def generate_pages_recursive(
             path_no_extencion = des_path.split(".")[:-1]
             path_no_extencion.append("html")
             html_path = ".".join(path_no_extencion)
-            generate_page(path, template_path, html_path)
+            generate_page(path, template_path, html_path, verbose=verbose)
             return
         files = os.listdir(path)
         for file in files:
@@ -116,4 +128,4 @@ def generate_pages_recursive(
 
 
 if __name__ == "__main__":
-    main()
+    main(verbose=verbose)

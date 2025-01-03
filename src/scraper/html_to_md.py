@@ -1,4 +1,3 @@
-import os
 from pathlib import Path
 
 from bs4 import BeautifulSoup, element
@@ -114,8 +113,9 @@ def html_to_md(html_file: str, out_path: Path, verbose: bool = False):
 
 
 def main(verbose: bool = False):
-    raw_html_path = Path(f"{Path.cwd().parent}/static/hexagrams/raw_html")
-    out_md_path = Path(f"{Path.cwd().parent}/content/hexagrams")
+    base_folder = Path(f"{Path.cwd().parent}").parent  # FIX: THIS IS HARD CODED
+    raw_html_path = Path(f"{base_folder}/static/hexagrams/raw_html")
+    out_md_path = Path(f"{base_folder}/content/hexagrams")
     for file in raw_html_path.iterdir():
         try:
             if file.is_file():

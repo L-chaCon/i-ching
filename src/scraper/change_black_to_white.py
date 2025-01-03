@@ -3,10 +3,10 @@ from pathlib import Path
 
 from PIL import Image
 
-out = Path("{}/assets/hexagrams/main/white".format(Path.cwd().parent))
+base_folder = Path(f"{Path.cwd().parent}").parent
+out = Path(f"{base_folder}/assets/hexagrams/main/white")
 out.mkdir(parents=True, exist_ok=True)
-
-in_path = Path("{}/assets/hexagrams/main/black".format(Path.cwd().parent))
+in_path = Path(f"{base_folder}/assets/hexagrams/main/black")
 
 
 def change_black_to_white(in_path, out_path):

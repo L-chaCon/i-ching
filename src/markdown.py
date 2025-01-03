@@ -7,6 +7,8 @@ block_type_quote = "quote"
 block_type_unordered_list = "unordered_list"
 block_type_ordered_list = "ordered_list"
 block_type_paragraph = "paragraph"
+block_type_script = "script"
+block_type_form = "form"
 
 
 def markdown_to_blocks(markdown: str) -> list[str]:
@@ -49,6 +51,11 @@ def block_to_block_type(markdown: str) -> str:
                 return block_type_paragraph
             number += 1
         return block_type_ordered_list
+    elif markdown.startswith("<form>"):
+        print("HOLA")
+        return block_type_form
+    elif markdown.startswith("<scritp>"):
+        return block_type_script
     return block_type_paragraph
 
 

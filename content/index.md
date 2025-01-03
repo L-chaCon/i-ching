@@ -1,14 +1,75 @@
-# Welcome to the I-Ching
+# I Ching
 
-## Test Link
 
-[Hexagram 1](/hexagrams/01_Creative.html)
 
-> TODO: 
->     - Here I need to add the way of moving form page to page
-> 
-> Idea:
-> 
-> Aca puedo hacer el la calculadora que me de el numero, el calculo lo puedo hacer despues.
-> hago el mapa, que despues lo puedo reutilizar si quiero, pero es para tener algo, una
-> simple calculadora que me diga donde ir y yo hago el resto. Esto significa que tengo que generar los links o el mapa de link para lo que cada numero significa.
+<form>here is the form format</form>
+
+## Hexagramas
+
+- [01_Creative](/hexagrams/01_Creative.html)
+- [02_Receptive](/hexagrams/02_Receptive.html)
+- [03_Difficulty](/hexagrams/03_Difficulty.html)
+- [04_Folly](/hexagrams/04_Folly.html)
+- [05_Waiting](/hexagrams/05_Waiting.html)
+- [06_Conflict](/hexagrams/06_Conflict.html)
+- [07_Army](/hexagrams/07_Army.html)
+- [08_Union](/hexagrams/08_Union.html)
+- [09_Taming](/hexagrams/09_Taming.html)
+- [10_Treading](/hexagrams/10_Treading.html)
+- [11_Peace](/hexagrams/11_Peace.html)
+- [12_Standstill](/hexagrams/12_Standstill.html)
+- [13_Fellowship](/hexagrams/13_Fellowship.html)
+- [14_Possession](/hexagrams/14_Possession.html)
+- [15_Modesty](/hexagrams/15_Modesty.html)
+- [16_Enthusiasm](/hexagrams/16_Enthusiasm.html)
+- [17_Following](/hexagrams/17_Following.html)
+- [18_Decay](/hexagrams/18_Decay.html)
+- [19_Approach](/hexagrams/19_Approach.html)
+- [20_View](/hexagrams/20_View.html)
+- [21_Biting](/hexagrams/21_Biting.html)
+- [22_Grace](/hexagrams/22_Grace.html)
+- [23_Splitting](/hexagrams/23_Splitting.html)
+- [24_Return](/hexagrams/24_Return.html)
+- [25_Innocence](/hexagrams/25_Innocence.html)
+- [26_Taming](/hexagrams/26_Taming.html)
+- [27_Mouth](/hexagrams/27_Mouth.html)
+- [28_Preponderance](/hexagrams/28_Preponderance.html)
+- [29_Abysmal](/hexagrams/29_Abysmal.html)
+- [30_Clinging](/hexagrams/30_Clinging.html)
+- [31_Influence](/hexagrams/31_Influence.html)
+- [32_Duration](/hexagrams/32_Duration.html)
+- [33_Retreat](/hexagrams/33_Retreat.html)
+- [34_Power](/hexagrams/34_Power.html)
+- [35_Progress](/hexagrams/35_Progress.html)
+- [36_Darkening](/hexagrams/36_Darkening.html)
+- [37_Family](/hexagrams/37_Family.html)
+- [38_Opposition](/hexagrams/38_Opposition.html)
+- [39_Obstruction](/hexagrams/39_Obstruction.html)
+- [40_Deliverance](/hexagrams/40_Deliverance.html)
+- [41_Decrease](/hexagrams/41_Decrease.html)
+- [42_Increase](/hexagrams/42_Increase.html)
+- [43_Resoluteness](/hexagrams/43_Resoluteness.html)
+- [44_Coming](/hexagrams/44_Coming.html)
+- [45_Gathering](/hexagrams/45_Gathering.html)
+- [46_Pushing](/hexagrams/46_Pushing.html)
+- [47_Oppression](/hexagrams/47_Oppression.html)
+- [48_Well](/hexagrams/48_Well.html)
+- [49_Revolution](/hexagrams/49_Revolution.html)
+- [50_Caldron](/hexagrams/50_Caldron.html)
+- [51_Arousing](/hexagrams/51_Arousing.html)
+- [52_Still](/hexagrams/52_Still.html)
+- [53_Development](/hexagrams/53_Development.html)
+- [54_Marrying](/hexagrams/54_Marrying.html)
+- [55_Abundance](/hexagrams/55_Abundance.html)
+- [56_Wanderer](/hexagrams/56_Wanderer.html)
+- [57_Gentle](/hexagrams/57_Gentle.html)
+- [58_Joyous](/hexagrams/58_Joyous.html)
+- [59_Dispersion](/hexagrams/59_Dispersion.html)
+- [60_Limitation](/hexagrams/60_Limitation.html)
+- [61_Truth](/hexagrams/61_Truth.html)
+- [62_Small](/hexagrams/62_Small.html)
+- [63_After](/hexagrams/63_After.html)
+- [64_Before](/hexagrams/64_Before.html)
+
+## Triagrams
+
