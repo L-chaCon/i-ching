@@ -5,10 +5,42 @@ from time import sleep
 
 import requests
 from bs4 import BeautifulSoup, element
-from bs4.formatter import HTMLFormatter
 from dotenv import load_dotenv
 
 load_dotenv(f"{Path.cwd().parent}/.env")
+
+IMAGE_WIKI = os.getenv("IMAGE_WIKI", "0")
+IMAGE_FROM_HEXAGRAM = os.getenv("IMAGE_FROM_HEXAGRAM", "0")
+DOWNLOAD_RAW = os.getenv("DOWNLOAD_RAW", "0")
+VERBOSE = os.getenv("VERBOSE", "0")
+
+if IMAGE_WIKI == "0":
+    wiki = False
+elif IMAGE_WIKI == "1":
+    wiki = True
+else:
+    raise ValueError("IMAGE_WIKI is not a good value")
+
+if IMAGE_FROM_HEXAGRAM == "0":
+    img_hex = False
+elif IMAGE_FROM_HEXAGRAM == "1":
+    img_hex = True
+else:
+    raise ValueError("IMAGE_FROM_HEXAGRAM is not a good value")
+
+if DOWNLOAD_RAW == "0":
+    raw_html = False
+elif DOWNLOAD_RAW == "1":
+    raw_html = True
+else:
+    raise ValueError("DOWNLOAD_RAW is not a good value")
+
+if VERBOSE == "0":
+    verbose = False
+elif VERBOSE == "1":
+    verbose = True
+else:
+    raise ValueError("verbose is not a good value")
 
 
 def print_report(failed: dict, success: dict):
@@ -69,7 +101,7 @@ def image_download_from_wiki(out: Path, verbose: bool = False):
 
                     if verbose:
                         print(
-                            f"Hexagram: {i} - downloaded: f{downlaoded} - url: {download_url}"
+                            f"Hexagram: {i} - downloaded: {downlaoded} - url: {download_url}"
                         )
                     sleep(0.1)
 
@@ -90,6 +122,7 @@ def download_raw_html(
     raw_html_out: Path | str = "",
     download_raw: bool = False,
 ) -> str:
+    message = []
     base_url = "https://www.iching-online.com"
     text = hexagram_a_element.find("h5").get_text(separator=" ")
     h_number, h_name = int(text.split(" ")[0]), text.split(" ")[1]
@@ -105,32 +138,57 @@ def download_raw_html(
             image_out_path = f"{image_out}/{str(h_number).zfill(2)}_{h_name}.png"
             image_out_path_class = Path(image_out_path)
             if image_out_path_class.exists():
-                return "Already existing file"
-            if img_r.status_code == 200:
-                with open(image_out_path, "wb") as f:
-                    f.write(img_r.content)
+                if verbose:
+                    print(f"Hexagram: {h_number} - Image already exist")
+                message.append("Image already exist")
             else:
-                raise ValueError("No response por request")
+                if img_r.status_code == 200:
+                    with open(image_out_path, "wb") as f:
+                        f.write(img_r.content)
+                    if verbose:
+                        print(
+                            f"Hexagram: {h_number} - Image Downloaded - url: {image_url}"
+                        )
+                    message.append("Image Downloaded")
+                else:
+                    if verbose:
+                        print(f"Hexagram: {h_number} - Image Error")
+                    message.append("Error in geting image")
         # Hexagram data
         main_div = soup.find_all("div", {"class": "txt"})[0]
         for p in main_div.find_all("p"):
             p.unwrap()
         table = main_div.table
         table.decompose()
+        raw_path = Path(f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html")
         if download_raw:
-            raw_path = Path(f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html")
             if raw_path.exists():
-                return "Already existing file"
-            # formatter = HTMLFormatter(indent=4)
-            with open(
-                f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html",
-                "wb",
-            ) as f:
-                # f.write(main_div.prettify(formatter=formatter).encode("utf-8"))
-                f.write(main_div.prettify().encode("utf-8"))
-            return "Download Success"
-        return "All options are deactivated, try setting to True"
-    raise Exception("No request found for Hexagram")
+                if verbose:
+                    print(f"Hexagram: {h_number} - Raw HTML already exist")
+                message.append("Raw HTML already Exist")
+            else:
+                if download_raw:
+                    # formatter = HTMLFormatter(indent=4)
+                    with open(
+                        f"{raw_html_out}/{str(h_number).zfill(2)}_{h_name}.html",
+                        "wb",
+                    ) as f:
+                        # f.write(main_div.prettify(formatter=formatter).encode("utf-8"))
+                        f.write(main_div.prettify().encode("utf-8"))
+                    if verbose:
+                        print(
+                            f"Hexagram: {h_number} - Raw HTML Downloaded - url: {image_url}"
+                        )
+                    message.append("Raw HTML Downlaoded")
+
+        if message:
+            return " ; ".join(message)
+        else:
+            return "All options are deactivated, try setting to True"
+    else:
+        if verbose:
+            print(f"Hexagram: {h_number} - Error")
+        return "No request found for Hexagram"
 
 
 def download_hexagram(
@@ -138,6 +196,7 @@ def download_hexagram(
     image_out: Path | str = "",
     raw_html_out: Path | str = "",
     download_raw: bool = False,
+    verbose: bool = False,
 ) -> None:
     base_url = "https://www.iching-online.com/hexagrams"
 
@@ -149,8 +208,9 @@ def download_hexagram(
     session.headers.update(headers)
 
     r = session.get(base_url)
-    print("-" * 80)
-    print(r.status_code)
+    if verbose:
+        print("-" * 80)
+        print(r.status_code)
     if r.status_code == HTTPStatus.OK:
         soup = BeautifulSoup(r.text, "html.parser")
         div = soup.find("div", {"class": "mrg"})
@@ -173,9 +233,7 @@ def download_hexagram(
                             raw_html_out=raw_html_out,
                             download_raw=download_raw,
                         )
-                        success_hexagrams[str(h_number).zfill(2)] = (
-                            f"{success_message} -> {str(h_number).zfill(2)}"
-                        )
+                        success_hexagrams[str(h_number).zfill(2)] = f"{success_message}"
                     except Exception as e:
                         failed_hexagrams[str(h_number).zfill(2)] = (
                             f"Faild to create hexagram - {type(e)}"
@@ -189,36 +247,42 @@ def download_hexagram(
 
 
 def main(
-    update_hexagram: bool = False,
     image_wiki: bool = False,
     image_from_hexagram: bool = False,
     download_raw: bool = False,
+    verbose: bool = False,
 ):
-    base_folder = Path(f"{Path.cwd().parent}").parent
-    image_out_mini = Path(f"{base_folder}/static/images/mini")
+    base_folder = Path.cwd()
+    image_out_mini = Path(f"{base_folder}/static/images/hexagrams/mini")
     image_out_mini.mkdir(parents=True, exist_ok=True)
 
-    image_out_main = Path(f"{base_folder}/static/images/main")
+    image_out_main = Path(f"{base_folder}/static/images/hexagrams/main")
     image_out_main.mkdir(parents=True, exist_ok=True)
 
     hexagram_raw_out = Path(f"{base_folder}/.raw_html")
     hexagram_raw_out.mkdir(parents=True, exist_ok=True)
 
+    if verbose:
+        print(f"Image Out Mini: {image_out_mini}")
+        print(f"Image Out Main: {image_out_main}")
+        print(f"Raw HTML Out: {hexagram_raw_out}")
+
     if image_wiki:
-        image_download_from_wiki(out=image_out_mini)
-    if update_hexagram:
+        image_download_from_wiki(out=image_out_mini, verbose=verbose)
+    if image_from_hexagram or download_raw:
         download_hexagram(
             image=image_from_hexagram,
             image_out=image_out_main,
             raw_html_out=hexagram_raw_out,
             download_raw=download_raw,
+            verbose=verbose,
         )
 
 
 if __name__ == "__main__":
     main(
-        update_hexagram=True,
-        image_wiki=False,
-        image_from_hexagram=False,
-        download_raw=True,
+        image_wiki=wiki,
+        image_from_hexagram=img_hex,
+        download_raw=raw_html,
+        verbose=verbose,
     )
