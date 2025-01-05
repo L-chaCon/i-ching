@@ -1,7 +1,9 @@
 # I Ching Static Page Generator.
 
 <div align="center">
+    
 ![kun-mini](/static/images/hexagrams/mini/white/02.png)
+
 </div>
 
 This project is a static site generated from scraping [i-ching online](https://www.iching-online.com). 
