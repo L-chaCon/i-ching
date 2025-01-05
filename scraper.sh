@@ -1,4 +1,5 @@
 #!/bin/bash
+source .venv/bin/activate
 help="0"
 while [[ $# > 0 ]]; do
     case "$1" in

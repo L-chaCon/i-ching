@@ -1,4 +1,8 @@
-# The Judgement
+# 47 / Oppression
+
+![Oppression](/images/hexagrams/main/white/47_Oppression.png)
+
+## The Judgement
 
 Oppression. Success. Perseverance.
 The great man brings about good fortune.
@@ -7,24 +11,24 @@ When one has something to say,
 It is not believed.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 There is no water in the lake:
 The image of Exhaustion.
 Thus the superior man stakes his life
 On following his will.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 One sits oppressed under a bare tree
 And strays into a gloomy valley.
 For three years one sees nothing.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 One is oppressed while at meat and drink.
 The man with the scarlet knee bands is just coming.
@@ -32,45 +36,47 @@ It furthers one to offer sacrifice.
 To set forth brings misfortune.
 No blame.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 A man permits himself to be oppressed by stone,
 And leans on thorns and thistles.
 He enters his house and does not see his wife.
 Misfortune.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 He comes very quietly, oppressed in a golden carriage.
 Humiliation, but the end is reached.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 His nose and feet are cut off.
 Oppression at the hands of the man with the purple knee bands.
 Joy comes softly.
 It furthers one to make offerings and libations.
 
-## The top line marked means:
+### The top line marked means:
 
 He is oppressed by creeping vines.
 He moves uncertainly and says, "Movement brings remorse."
 If one feels remorse over this and makes a start,
 Good fortune comes.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 The lake is above, water below; the lake is empty, dried up. Exhaustion is expressed in yet another way: at the top, a dark line is holding down two light line; below, a light line is hemmed in between two dark ones. The upper trigram belongs to the principle of darkness, the lower to the principle of light. Thus everywhere superior men are oppressed and held in restraint by inferior men.
 
-## The Judgement
+### The Judgement
 
 Times of adversity are the reverse of times of success, but they can lead to success if they; befall the right man. When a strong man meets with adversity, he remains cheerful despite all danger, and this cheerfulness is the source of later successes; it is that stability which is stronger than fate. He who lets his spirit be broken by exhaustion certainly has no success. But if adversity only bends a man, it creates in him a power to react that is bound in time to manifest itself. No inferior man is capable of this. Only the great man brings about goof fortune and remains blameless. It is true that for the time being outward influence is denied him, because his words have no effect. Therefore in times of adversity it is important to be strong within and sparing of words.
 
-## The Image
+### The Image
 
 When the water has flowed out below, the lake must dry up and become exhausted. That is fate. This symbolizes an adverse fate in human life. In such times there is nothing a man can do but acquiesce in his fate and remain true to himself. This concerns the deepest stratum of his being, for this alone is superior to all external fate.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 When adversity befalls a man, it is important above all things for him to be strong and to overcome the trouble inwardly. If he is weak, the trouble overwhelms him. Instead of proceeding on his way, he remains sitting under a bare tree and falls ever more deeply into gloom and melancholy. This makes the situation only more and more hopeless. Such an attitude comes from an inner delusion that he must by all means overcome.
@@ -85,25 +91,25 @@ An individual who has the good of mankind at heart is oppressed from above and b
 The top line marked
 A man is oppressed by bonds that can easily be broken. The distress is drawing to an end. But he is still irresolute; he is still influenced by the previous condition and fears that he may have cause for regret if he makes a move. But as soon as he grasps the situation, changes this mental attitude, and makes a firm decision, he masters the oppression.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Lake upon Water
+## Lake upon Water
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Click the image to see what it means for the two trigrams of this hexagram:
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):

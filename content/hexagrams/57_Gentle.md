@@ -1,11 +1,15 @@
-# The Judgement
+# 57 / Gentle
+
+![Gentle](/images/hexagrams/main/white/57_Gentle.png)
+
+## The Judgement
 
 The Gentle. Success through what is small.
 It furthers one to have somewhere to go.
 It furthers one to see the great man.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 Winds following one upon the other:
 The image of the Gently Penetrating.
@@ -13,32 +17,32 @@ Thus the superior man
 Spreads his commands abroad
 And carries out his undertakings.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 In advancing and in retreating,
 The perseverance of a warrior furthers.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 Penetration under the bed.
 Priests and magicians are used in great number.
 Good fortune. No blame.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 Repeated penetration. Humiliation.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 Remorse vanishes.
 During the hunt
 Three kinds of game are caught.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 Perseverance brings good fortune.
 Remorse vanishes.
@@ -48,25 +52,27 @@ Before the change, three days.
 After the change, three days.
 Good fortune.
 
-## The top line marked means:
+### The top line marked means:
 
 Penetration under the bed.
 He loses his property and his ax
 Perseverance brings misfortune.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 Sun is one of the eight doubled trigrams. It is the eldest daughter and symbolizes wind or wood; it has for its attribute gentleness, which nonetheless penetrates like the wind or like growing wood with its roots. The dark principle, in itself rigid and immovable, is dissolved by the penetrating light principle, to which it subordinates itself in gentleness. In nature, it is the wind that disperses the gathered clouds, leaving the sky clear and serene. In human life it is penetrating clarity of judgment that thwarts all dark hidden motives. In the life of the community it is the powerful influence of a great personality that uncovers and breaks up those intrigues which shun the light of day.
 
-## The Judgement
+### The Judgement
 
 Penetration produces gradual and inconspicuous effects. It should be effected not by an act of violation but by influence that never lapses. Results of this kind are less striking to the eye than those won by surprise attack, but they are more enduring and more complete. If one would produce such effects, one must have a clearly defined goal, for only when the penetrating influence works always in the same direction can the object be attained. Small strength can achieve its purpose only by subordinating itself to an eminent man who is capable of creating order.
 
-## The Image
+### The Image
 
 The penetrating quality of the wind depends upon its ceaselessness. This is what makes it so powerful; time is its instrument. In the same way the ruler's thought should penetrate the soul of the people. This too requires a lasting influence brought about by enlightenment and command. Only when the command has been assimilated by the people is action in accordance with it possible. Action without preparation of the ground only frightens and repels.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 In born gentleness is often carried to the point of indecisiveness. One does not feel strong enough to advance resolutely. A thousand doubts crop up; one is, however, not minded to withdraw but drifts indecisively to and fro. In such a situation, a military decisiveness is the proper thing, so that one resolutely does what order demands. Resolute discipline is far better than irresolute license.
@@ -81,25 +87,25 @@ In the situation described in Ku, WORK ON WHAT HAS BEEN SPOILED (18), an entirel
 The top line marked
 A man's understanding is sufficiently penetrating. He follows up injurious influences into the most secret corners. But he no longer has the strength to combat them decisively. In this case any attempt to penetrate into the personal domain of darkness would only bring harm.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Wind upon Wind
+## Wind upon Wind
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Since these two are identical, it makes more sense to compare with the hexagram that has reversed lines (see below).
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):

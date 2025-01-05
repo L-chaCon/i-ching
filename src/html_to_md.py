@@ -26,11 +26,15 @@ def format_html(
         elif html_text.name == "h3":
             format_sting = str(html_text.string).replace("\n", "").strip()
             if format_sting != "":
-                md_format.append(("tag", f"## {format_sting}"))
+                md_format.append(("tag", f"### {format_sting}"))
         elif html_text.name == "a":
-            print(html_text.contents)
+            # TODO: AGREGAR EL A
+            pass
+            # print(html_text.contents)
         else:
-            print(f"{html_text.name} not suported")
+            # TODO: AGREGAR FONT
+            pass
+            # print(f"'{html_text.name}' tag not suported")
 
     elif type(html_text) is element.NavigableString:
         format_sting = str(html_text).replace("\n", "").strip()
@@ -83,12 +87,16 @@ def html_to_md(html_file: str, out_path: Path, verbose: bool = False):
     soup = BeautifulSoup(html_file, "html.parser")
 
     md_content = []
+    h_number = file_name.split("_")[0]
+    h_name = file_name.split("_")[1]
+    md_content.append(f"# {h_number} / {h_name}")
+    md_content.append(f"![{h_name}](/images/hexagrams/main/white/{file_name}.png)")
     for h2 in soup.find_all("h2"):
         md_context_h2 = []
         if not h2.string:
             break
         title = h2.string.replace("\n", "").strip()
-        md_context_h2.append(f"# {title}")
+        md_context_h2.append(f"## {title}")
 
         next = h2.next_sibling
         html_raw_parts = []
@@ -113,8 +121,8 @@ def html_to_md(html_file: str, out_path: Path, verbose: bool = False):
 
 
 def main(verbose: bool = False):
-    base_folder = Path(f"{Path.cwd().parent}").parent  # FIX: THIS IS HARD CODED
-    raw_html_path = Path(f"{base_folder}/static/hexagrams/raw_html")
+    base_folder = Path.cwd().parent
+    raw_html_path = Path(f"{base_folder}/.raw_html")
     out_md_path = Path(f"{base_folder}/content/hexagrams")
     for file in raw_html_path.iterdir():
         try:
@@ -129,7 +137,8 @@ def main(verbose: bool = False):
             print(f"{file.stem} -> html to md compleated")
         except Exception as e:
             print(f"{file.stem} -> error: {e}")
-        break
+
+        # break
 
 
 if __name__ == "__main__":

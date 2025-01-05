@@ -1,4 +1,8 @@
-# The Judgement
+# 40 / Deliverance
+
+![Deliverance](/images/hexagrams/main/white/40_Deliverance.png)
+
+## The Judgement
 
 Deliverance. The southwest furthers.
 If there is no longer anything where one has to go,
@@ -7,64 +11,66 @@ If there is still something where one has to go,
 Hastening brings good fortune.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 Thunder and rain set in:
 The image of Deliverance.
 Thus the superior man pardons mistakes
 And forgives misdeeds.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 Without blame.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 One kills three foxes in the field
 And receives a yellow arrow.
 Perseverance brings good fortune.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 If a man carries a burden on his back
 And nontheless rides in a carriage,
 He thereby encourages robbers to draw near.
 Perseverance leads to humiliation.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 Deliver yourself from your great toe.
 Then the companion comes,
 And him you can trust.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 If only the superior man can deliver himself,
 It brings good fortune.
 Thus he proves to inferior men that he is in earnest.
 
-## The top line marked means:
+### The top line marked means:
 
 The prince shoots at a hawk on a high wall.
 He kills it. Everything serves to further.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 Here the movement goes out of the sphere of danger. The obstacle has been removed, the difficulties are being resolved. Deliverance is not yet achieved; it is just in its beginning, and the hexagram represents its various stages.
 
-## The Judgement
+### The Judgement
 
 This refers to a time in which tensions and complications begin to be eased.At such times we ought to make our way back to ordinary conditions as soon as possible; this is the meaning of "the southwest." These periods of sudden change have great importance. Just as rain relieves atmospheric tension, making all the buds burst open, so a time of deliverance from burdensome pressure has a liberating and stimulating effect on life. One thing is important, however: in such times we must not overdo our triumph. The point is not to push on farther than is necessary. Returning to the regular order of life as soon as deliverance is achieved brings good fortune. If there are any residual matters that ought to be attended to, it should be done as quickly as possible, so that a clean sweep is made and no retardations occur.
 
-## The Image
+### The Image
 
 A thunderstorm has the effect of clearing the air; the superior man produces a similar effect when dealing with mistakes and sins of men that induce a condition of tension. Through clarity he brings deliverance. However, when failings come to light, he does not dwell on them; he simply passes over mistakes, the unintentional transgressions, just as thunder dies away. He forgives misdeeds, the intentional transgressions, just as water washes everything clean.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 In keeping with the situation, few words are needed. The hindrance is past, deliverance has come. One recuperates in peace and keeps still. This is the right thing to do in times when difficulties have been overcome.
@@ -79,25 +85,25 @@ Times of deliverance demand inner resolve. Inferior people cannot be driven off 
 The top line marked
 The hawk on a high wall is the symbol of a powerful inferior in a high position who is hindering the deliverance. He withstands the force of inner influences, because he is hardened in his wickedness. He must be forcibly removed, and this requires appropriate means. Confucius says about this line:The hawk is the object of the hunt; bow and arrow are the tools and means.The marksman is man (who must make proper use of the means to his end).The superior man contains the means in his own person. He bides his time and then acts. Why then should not everything go well? He acts and is free.Therefore all he has to do is to go forth, and he takes his quarry. This is how a man fares who acts after he has made ready the means.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Thunder upon Water
+## Thunder upon Water
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Click the image to see what it means for the two trigrams of this hexagram:
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):

@@ -1,4 +1,8 @@
-# The Judgement
+# 13 / Fellowship
+
+![Fellowship](/images/hexagrams/main/white/13_Fellowship.png)
+
+## The Judgement
 
 Fellowship with Men in the open.
 Success.
@@ -6,62 +10,64 @@ It furthers one to cross the great water.
 The perseverance of the superior man furthers.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 Heaven together with fire:
 The image of Fellowship with Men.
 Thus the superior man organizes the clans
 And makes distinctions between things.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 Fellowship with men at the gate.
 No blame.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 Fellowship with men in the clan.
 Humiliation.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 He hides weapons in the thicket;
 He climbs the high hill in front of it.
 For three years he does not rise up.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 He climbs up on his wall; he cannot attack.
 Good fortune.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 Men bound in fellowship first weep and lament,
 But afterward the laugh.
 After great struggles they succeed in meeting.
 
-## The top line marked means:
+### The top line marked means:
 
 Fellowship with men in the meadow.
 No remorse.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 The image of the upper trigram Ch'ien is heaven, and that of the lower, Li, is flame. It is the nature of fire to flame up to the heaven. This gives the idea of fellowship. IT is the second line that, by virtue of its central character, unites the five strong lines around it. This hexagram forms a complement to Shih, THE ARMY (7). In the latter, danger is within and obedience without — the character of a warlike army, which, in order to hold together, needs one strong man among the many who are weak. Here, clarity is within and strength without — the character of a peaceful union of men, which, in order to hold together, needs one yielding nature among many firm persons.
 
-## The Judgement
+### The Judgement
 
 True fellowship among men must be based upon a concern that is universal.It is not the private interests of the individual that create lasting fellowship among men, but rather the goals of humanity. That is why it is said that fellowship with men in the open succeeds. If unity of this kind prevails, even difficult and dangerous tasks, such as crossing the great water, can be accomplished. But in order to bring about this sort of fellowship, a persevering and enlightened leader is needed — a man with clear, convincing, and inspiring aims and the strength to carry them out. (The inner trigram means clarity; the outer, strength.)
 
-## The Image
+### The Image
 
 Heaven has the same direction of movement as fire, yet it is different from fire. Just as the luminaries in the sky serve for the systematic division and arrangement of time, so human society and all things that really belong together must be organically arranged. Fellowship should not be a mere mingling of individuals or of things — that would be chaos, not fellowship. If fellowship is to lead to order, there must be organization within diversity.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 The beginning of union among people should take place before the door. All are equally close to one another. No divergent aims have yet arisen, and one makes not mistakes. The basic principles of any kind of union must be equally accessible to all concerned. Secret agreements bring misfortune.
@@ -76,25 +82,25 @@ Two people are outwardly separated, but in their hearts they are united. They ar
 The top line marked
 The warm attachment that springs from the heart is lacking here. We are by this time actually outside of fellowship with others. However, we ally ourselves with them. The fellowship does not include all, but only those who happen to dwell near one another. The meadow is the pasture at the entrance to the town. At this stage, the ultimate goal of the union of mankind has not yet been attained, but we need not reproach ourselves. We join the community without separate aims of our own.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Heaven upon Flame
+## Heaven upon Flame
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Click the image to see what it means for the two trigrams of this hexagram:
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):

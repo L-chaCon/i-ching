@@ -1,4 +1,8 @@
-# The Judgement
+# 61 / Truth
+
+![Truth](/images/hexagrams/main/white/61_Truth.png)
+
+## The Judgement
 
 Inner Truth. Pigs and fishes.
 Good fortune.
@@ -6,63 +10,65 @@ It furthers one to cross the great water.
 Perseverance furthers.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 Wind over lake: the image of Inner Truth.
 Thus the superior man discusses criminal cases
 In order to delay executions.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 Being prepared brings good fortune.
 If there are secret designs, it is disquieting.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 A crane is calling in the shade.
 Its young answers it.
 I have a good goblet.
 I will share it with you.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 He finds a comrade.
 Now he beats the drum, now he stops.
 Now he sobs, now he sings.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 The moon nearly at the full.
 The team horse goes astray.
 No blame.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 He possesses truth, which links together.
 No blame.
 
-## The top line marked means:
+### The top line marked means:
 
 Cockcrow penetrating to heaven.
 Perseverance brings misfortune.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 The wind blows over the lake and stirs the surface of the water. Thus visible effects of the invisible manifest themselves. The hexagram consists of firm lines above and below, while it is open in the center. This indicates a heart free of prejudices and therefore open to truth. On the other hand, each of the two trigrams has a firm line in the middle; this indicates the force of inner truth in the influences they present. The attributes of the two trigrams are: above, gentleness, forbearance toward inferiors; below, joyousness in obeying superiors. Such conditions create the basis of a mutual confidence that makes achievements possible. The character of fu ("truth") is actually the picture of a bird's foot over a fledgling. It suggests the idea of brooding. An egg is hollow. The light-giving power must work to quicken it from outside, but there must be a germ of life within, if life is to be awakened. Far-reaching speculations can be linked with these ideas.
 
-## The Judgement
+### The Judgement
 
 Pigs and fishes are the least intelligent of all animals and therefore the most difficult to influence. The force of inner truth must grow great indeed before its influence can extend to such creatures. In dealing with persons as intractable and as difficult to influence as a pig or a fish, the whole secret of success depends on finding the right way of approach. One must first rid oneself of all prejudice and, so to speak, let the psyche of the other person act on one without restraint. Then one will establish contact with him, understand and gain power over him. When a door has thus been opened, the force of one's personality will influence him. If in this way one finds no obstacles insurmountable, one can undertake even the most dangerous things, such as crossing the great water, and succeed. But it is important to understand upon what the force inner truth depends.This force is not identical with simple intimacy or a secret bond. Close ties may exist also among thieves; it is true that such a bond acts as a force but, since it is not invincible, it does not bring good fortune. All association on the basis of common interests holds only up to a certain point. Where the community of interest ceases, the holding together ceases also, and the closest friendship often changes into hate. Only when the bond is based on what is right, on steadfastness, will it remain so firm that it triumphs over everything.
 
-## The Image
+### The Image
 
 Wind stirs water by penetrating it. Thus the superior man, when obliged to judge the mistakes of men, tries to penetrate their minds with understanding, in order to gain a sympathetic appreciation of the circumstances. In ancient China, the entire administration of justice was guided by this principle. A deep understanding that knows how to pardon was considered the highest form of justice. This system was not without success, for its aim was to make so strong a moral impression that there was no reason to fear abuse of such mildness. For it sprang not from weakness but from a superior clarity.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 The force of inner truth depends chiefly on inner stability and preparedness.From this state of mind springs the correct attitude toward the outer world.But if a man should try to cultivate secret relationships of a special sort, it would deprive him of his inner independence. The more reliance he places on the support of others, the more uneasy and anxious he will become as to whether these secret ties are really tenable. In this way inner peace and the force of inner truth are lost.
@@ -77,25 +83,25 @@ This describes the ruler who holds all elements together by the power of his per
 The top line marked
 The cock is dependable. It crows at dawn. But it cannot itself fly to heaven. It just crows. A man may count on mere words to awaken faith. This may succeed now and then, but if persisted in, it will have bad consequences.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Wind upon Lake
+## Wind upon Lake
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Click the image to see what it means for the two trigrams of this hexagram:
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):

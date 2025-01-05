@@ -6,11 +6,10 @@ IN_PATH = Path(f"{Path.cwd().parent}/content")
 
 def create_hex_table(hexagrams: list) -> str:
     result: list = []
-    print(IN_PATH)
     for hex in hexagrams:
-        result.append(f"- [{hex}](/hexagrams/{hex}.html)")
-
-    print("\n".join(result))
+        h_name = hex.split("_")[1]
+        h_number = int(hex.split("_")[0])
+        result.append(f"{h_number}. [{h_name}](/hexagrams/{hex}.html)")
     return "\n".join(result)
 
 
@@ -20,13 +19,16 @@ def create_tri_table(triagrams: list) -> str:
 
 def create_form() -> str:
     return ""
-    return "<form>here is the form format</form>"
+    # TODO: AGREGAR EL FORM EN FORMATO MD
+    # return "<form>here is the form format</form>"
 
 
 def create_intro() -> str:
     result = []
     result.append("# I Ching")
-    result.append("")
+    result.append(
+        "This is a static website for personal use and information about the I ching readding.\nIs not complete, and needs some functionalities but all the information is there"
+    )
     result.append(create_form())
     return "\n\n".join(result)
 

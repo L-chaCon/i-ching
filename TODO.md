@@ -1,9 +1,8 @@
-- [ ] Create the README.md
-- [ ] Create the landing page:
+- [ ] Landing Page:
     - [ ] Create the JavaScript calculator for hexagram
     - [ ] Make the landing page pretty
     - [ ] Create the hexagram box
 - [ ] Builder
     - [ ] Add the `<a>` tag to the recursive function
-    - [ ] Add the links from one hexagram to another (probably need a map for
-    this)
+    - [ ] Add the links from one hexagram to another (probably need a map for this)
+    - [ ] Add the link to triagram from hexagram

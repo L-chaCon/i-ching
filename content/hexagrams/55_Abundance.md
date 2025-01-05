@@ -1,4 +1,8 @@
-# The Judgement
+# 55 / Abundance
+
+![Abundance](/images/hexagrams/main/white/55_Abundance.png)
+
+## The Judgement
 
 Abundance has success.
 The king attains abundance.
@@ -6,25 +10,25 @@ Be not sad.
 Be like the sun at midday.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 Both thunder and lightning come:
 The image of Abundance.
 Thus the superior man decides lawsuits
 And carries out punishments.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 When a man meets his destined ruler,
 They can be together ten days,
 And it is not a mistake.
 Going meets with recognition.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 The curtain is of such fullness
 That the polestars can be seen at noon.
@@ -32,26 +36,26 @@ Through going one meets with mistrust and hate.
 If one rouses him through truth,
 Good fortune comes.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 The underbrush is of such abundance
 That the small stars can be seen at noon.
 He breaks his right arm. No blame.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 The curtain is of such fullness
 That the polestars can be seen at noon.
 He meets his ruler, who is of like kind.
 Good fortune.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 Lines are coming,
 Blessing and fame draw near.
 Good fortune.
 
-## The top line marked means:
+### The top line marked means:
 
 His house is in a state of abundance.
 He screens off his family.
@@ -60,19 +64,21 @@ And no longer perceives anyone.
 For three years he sees nothing.
 Misfortune.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 Chên is movement; Li is flame, whose attribute is clarity. Clarity within, movement without-this produces greatness and abundance. The hexagram pictures a period of advanced civilization. However, the fact that development has reached a peak suggests that this extraordinary condition of abundance cannot be maintained permanently.
 
-## The Judgement
+### The Judgement
 
 It is not given to every mortal to bring about a time of outstanding greatness and abundance. Only a born ruler of men is able to do it, because his will is directed to what is great. Such a time of abundance is usually brief. Therefore a sage might well feel sad in view of the decline that must follow. But such sadness foes not befit him. Only a man who is inwardly free of sorrow and care can lead in a time of abundance. He must be like the sun at midday, illuminating and gladdening everything under heaven.
 
-## The Image
+### The Image
 
 This hexagram has a certain connection with Shih Ho, BITING THROUGH (21), in which thunder and lightning similarly appear together, but in the reverse order. In BITING THROUGH, laws are laid down; here they are applied and enforced. Clarity [Li] within makes it possible to investigate the facts exactly, and shock [Chên] without ensures a strict and precise carrying out of punishments.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 To bring about a time of abundance, a union of clarity with energetic movement is needed. Two individuals possessed of these two attributes are suited to each other, and even if they spend an entire cycle of time together during the period of abundance, it will not be too long, nor is it a mistake.Therefore one may go forth, in order to make one's influence felt; it will meet with recognition.
@@ -87,25 +93,25 @@ The ruler is modest and therefore open to the counsel of able men. Thus he is su
 The top line marked
 This describes a man who because of his arrogance and obstinacy attains the opposite of what he strives for. He seeks abundance and splendor for his dwelling. He wishes at all odds to be master in his house, which so alienates his family that in the end he finds himself completely isolated.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Thunder upon Flame
+## Thunder upon Flame
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Click the image to see what it means for the two trigrams of this hexagram:
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):

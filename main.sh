@@ -43,4 +43,4 @@ export CONTENT_PATH=$content_path
 export VERBOSE=$verbose
 
 ./.venv/bin/python src/main.py
-# cd public && ../.venv/bin/python -m http.server 42069
+cd public && ../.venv/bin/python -m http.server 42069

@@ -52,7 +52,6 @@ def block_to_block_type(markdown: str) -> str:
             number += 1
         return block_type_ordered_list
     elif markdown.startswith("<form>"):
-        print("HOLA")
         return block_type_form
     elif markdown.startswith("<scritp>"):
         return block_type_script
@@ -93,6 +92,12 @@ def helper_block_to_html(
         html_nodes.append(helper_block_to_code(block))
     elif block_type == block_type_quote:
         html_nodes.append(helper_block_to_quote(block))
+    elif block_type == block_type_form:
+        # TODO: Chachar como hacer que funcione el form pasando de md.
+        pass
+    elif block_type == block_type_script:
+        # TODO: Ver como hacer el script Agregar a ParentNode
+        pass
     else:
         raise ValueError(f"{block_type} type is not implemented")
     return html_nodes

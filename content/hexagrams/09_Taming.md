@@ -1,48 +1,52 @@
-# The Judgement
+# 09 / Taming
+
+![Taming](/images/hexagrams/main/white/09_Taming.png)
+
+## The Judgement
 
 The Taming Power of the Small
 Has success.
 Dense clouds, no rain from our western region.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 The wind drives across heaven:
 The image of The Taming Power of the Small.
 Thus the superior man
 Refines the outward aspect of his nature.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 Return to the way.
 How could there be blame in this?
 Good fortune.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 He allows himself to be drawn into returning.
 Good fortune.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 The spokes burst out of the wagon wheel.
 Man and wife roll their eyes.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 If you are sincere, blood vanishes and fear gives way.
 No blame.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 If you are sincere and loyally attached,
 You are rich in your neighbor.
 
-## The top line marked means:
+### The top line marked means:
 
 The rain comes, there is rest.
 This is due to the lasting affect of character.
@@ -51,19 +55,21 @@ The moon is nearly full.
 If the superior man persists,
 Misfortune comes.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 This hexagram means the force of the small — the power of the shadowy — that restrains, tames, impedes. A weak line in the fourth place, that of the minister, holds the five strong lines in check. In the Image it is the wind blowing across the sky. The wind restrains the clouds, the rising breath of the Creative, and makes them grow dense, but as yet is not strong enough to turn them to rain. The hexagram presents a configuration of circumstances in which a strong element is temporarily held in leash by a weak element. It is only through gentleness that this can have a successful outcome.
 
-## The Judgement
+### The Judgement
 
 This image refers to the state of affairs in China at the time when King Wên, who came originally from the west, was in the east at the court of the reigning tyrant Chou Hsin. The moment for action on a large scale had not yet arrived. King Wên could only keep the tyrant somewhat in check by friendly persuasion. Hence the image of many clouds, promising moisture and blessing to the land, although as yet no rain falls. The situation is not unfavorable; there is a prospect of ultimate success, but there are still obstacles in the way, and we can merely take preparatory measures. Only through the small means of friendly persuasion can we exert any influence. The time has not yet come for sweeping measures. However, we may be able, to a limited extent, to act as a restraining and subduing influence. To carry out our purpose we need firm determination within and gentleness and adaptability in external relations.
 
-## The Image
+### The Image
 
 The wind can indeed drive the clouds together in the sky; yet, being nothing but air, without solid body, it does not produce great or lasting effects. So also an individual, in times when he can produce no great effect in the outer world, can do nothing except refine the expression of his nature in small ways.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 It lies in the nature of a strong man to press forward. In so doing he encounters obstructions. Therefore he returns to the way suited to his situation, where he is free to advance or to retreat. In the nature of things this will bring good fortune, for it is wise and reasonable not to try to obtain anything by force.
@@ -78,25 +84,25 @@ Loyalty leads to firm ties because it means that each partner complements the ot
 The top line marked
 Success is at hand. The wind has driven up the rain. A fixed standpoint has been reach. This has come about through the cumulation of small effects produced by reverence for a superior character. But a success thus secured bit by bit calls for great caution. It would be a dangerous illusion for anyone to think he could presume upon it. The female principle, the weak element that has won the victory, should never persist in vaunting it — that would lead to danger. The dark power in the moon is strongest when the moon is almost full. When it is full and directly opposite the sun, its waning is inevitable. Under such circumstances one must be content with what has been achieved. To advance any further, before the appropriate time has come, would lead to misfortune.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Wind upon Heaven
+## Wind upon Heaven
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Click the image to see what it means for the two trigrams of this hexagram:
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):

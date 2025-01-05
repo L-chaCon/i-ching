@@ -1,21 +1,25 @@
-# The Judgement
+# 36 / Darkening
+
+![Darkening](/images/hexagrams/main/white/36_Darkening.png)
+
+## The Judgement
 
 Darkening of the Light. In adversity
 It furthers one to be persevering.
 RESP iching TXT removed for Auto Ad
 
-# The Image
+## The Image
 
 The light has sunk into the earth:
 The image of Darkening of the Light.
 Thus does the superior man live with the great mass:
 He veils his light, yet still shines.
 
-# The Lines
+## The Lines
 
 > These texts apply only for the lines that were marked, when the hexagram was cast. Note that the lines are counted from the bottom up.
 
-## The bottom line marked means:
+### The bottom line marked means:
 
 Darkening of the light during flight.
 He lowers his wings.
@@ -24,48 +28,50 @@ On his wanderings.
 But he has somewhere to go.
 The host has occasion to gossip about him.
 
-## The 2nd line marked means:
+### The 2nd line marked means:
 
 Darkening of the light injures him in the left thigh.
 He gives aid with the strength of a horse.
 Good fortune.
 
-## The 3rd line marked means:
+### The 3rd line marked means:
 
 Darkening of the light during the hunt in the south.
 Their great leader is captured.
 One must not expect perseverance too soon.
 
-## The 4th line marked means:
+### The 4th line marked means:
 
 He penetrates the left side of the belly.
 One gets at the very heart of the darkening of the light,
 And leaves gate and courtyard.
 
-## The 5th line marked means:
+### The 5th line marked means:
 
 Darkening of the light as with Prince Chi.
 Perseverance furthers.
 
-## The top line marked means:
+### The top line marked means:
 
 Not light but darkness.
 First he climbed up to heaven,
 Then he plunged into the depths of the earth.
 
-# Comments on the Hexagram
+> The interpretations above and comments below are from Richard Wilhelm's version of the I CHING.
+
+## Comments on the Hexagram
 
 Here the sun has sunk under the earth and is therefore darkened. The name of the hexagram means literally "wounding of the bright"; hence the individual lines contain frequent references to wounding. The situation is the exact opposite of that in the foregoing hexagram. In the latter a wise man at the head of affairs has able helpers, and in company with them makes progress; here a man of dark nature is in a position of authority and brings harm to the wise and able man.
 
-## The Judgement
+### The Judgement
 
 One must not unresistingly let himself be swept along by unfavorable circumstances, nor permit his steadfastness to be shaken. He can avoid this by maintaining his inner light, while remaining outwardly yielding and tractable. With this attitude he can overcome even the greatest adversities. In some situations indeed a man must hide his light, in order to make his will prevail inspite of difficulties in his immediate environment.Perseverance must dwell in inmost consciousness and should not be discernible from without. Only thus is a man able to maintain his will in the face of difficulties.
 
-## The Image
+### The Image
 
 In a time of darkness it is essential to be cautious and reserved. One should not needlessly awaken overwhelming enmity by inconsiderate behavior. In such times one ought not to fall in with the practices of others; neither should one drag them censoriously into the light. In social intercourse one should not try to be all-knowing. One should let many things pass, without being duped.
 
-## The Lines
+### The Lines
 
 The bottom line marked
 With grandiose resolve a man endeavors to soar above all obstacles, but thus encounters a hostile fate. He retreats and evades the issue. The time is difficult. Without rest, he must hurry along, with no permanent abiding place. If he does not want to make compromises within himself, but insists on remaining true to his principles, he suffers deprivation. Never the less he has a fixed goal to strive for even though the people with whom he lives do not understand him and speak ill of him.
@@ -80,25 +86,25 @@ Prince Chi lived at the court of the evil tyrant Chou Hsin, who, although not me
 The top line marked
 Here the climax of the darkening is reached. The dark power at first held so high a place that it could wound all who were on the side of good and of the light. But in the end it perishes of its own darkness, for evil must itself fall at the very moment when it has wholly overcome the good, and thus consumed the energy to which it owed its duration.
 
-# Further Reading
+## Further Reading
 
 
 
 Here I add some perspectives on this hexagram, as well as other methods to read its meaning, in additon to what Richard Wilhelm derives from it above.
 
-## Meaning of the Trigrams Combined
+### Meaning of the Trigrams Combined
 
 Each hexagram combines two trigrams, making one the upper and the other the lower. The meaning of the hexagram is mainly derived from that combination. Here's what it means for this hexagram:
 
-# Earth upon Flame
+## Earth upon Flame
 
 
 
 
-# Compare to the Reversed Trigrams
+## Compare to the Reversed Trigrams
 
 It's common to compare a hexagram to the one where the lines are the opposite: a full line is broken and a broken line full. But I find it much more interesting to compare hexagrams with the trigrams reversed: the upper trigram becomes the lower, and the lower trigram becomes the upper. That deepens the understanding of the trigrams at work — when they're not identical. Click the image to see what it means for the two trigrams of this hexagram:
 
-# Compare to the Reversed Lines
+## Compare to the Reversed Lines
 
 You can also compare this hexagram to its opposite according to the six lines, where each broken line is full, and vice versa. In some cases it leads to the same hexagram as the one where the trigrams are switched. Here is the hexagram with reversed lines (click it to get to its webpage):
